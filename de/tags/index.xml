@@ -14,7 +14,7 @@
     <managingEditor>datacodestudy@gmail.com (PEREZRE)</managingEditor>
     <webMaster>datacodestudy@gmail.com (PEREZRE)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 01 Nov 2020 16:30:02 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://datacodestudy.github.io/datacodestudy/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,12 @@
 
       
       <item>
-        <title>engineering</title>
-        <link>https://datacodestudy.github.io/datacodestudy/de/tags/engineering/</link>
-        <pubDate>Sun, 01 Nov 2020 16:30:02 +0100</pubDate>
+        <title>css</title>
+        <link>https://datacodestudy.github.io/datacodestudy/de/tags/css/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>datacodestudy@gmail.com (PEREZRE)</author>
         
-        <guid>https://datacodestudy.github.io/datacodestudy/de/tags/engineering/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/de/tags/css/</guid>
         <description></description>
         
         <dc:creator>PEREZRE</dc:creator>
@@ -41,12 +41,12 @@
       </item>
       
       <item>
-        <title>management</title>
-        <link>https://datacodestudy.github.io/datacodestudy/de/tags/management/</link>
-        <pubDate>Sun, 01 Nov 2020 16:30:02 +0100</pubDate>
+        <title>html</title>
+        <link>https://datacodestudy.github.io/datacodestudy/de/tags/html/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>datacodestudy@gmail.com (PEREZRE)</author>
         
-        <guid>https://datacodestudy.github.io/datacodestudy/de/tags/management/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/de/tags/html/</guid>
         <description></description>
         
         <dc:creator>PEREZRE</dc:creator>
@@ -59,12 +59,30 @@
       </item>
       
       <item>
-        <title>requirements</title>
-        <link>https://datacodestudy.github.io/datacodestudy/de/tags/requirements/</link>
-        <pubDate>Sun, 01 Nov 2020 16:30:02 +0100</pubDate>
+        <title>markdown</title>
+        <link>https://datacodestudy.github.io/datacodestudy/de/tags/markdown/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>datacodestudy@gmail.com (PEREZRE)</author>
         
-        <guid>https://datacodestudy.github.io/datacodestudy/de/tags/requirements/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/de/tags/markdown/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>themes</title>
+        <link>https://datacodestudy.github.io/datacodestudy/de/tags/themes/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/de/tags/themes/</guid>
         <description></description>
         
         <dc:creator>PEREZRE</dc:creator>

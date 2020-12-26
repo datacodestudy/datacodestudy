@@ -34,7 +34,7 @@
   
   <url>
     <loc>https://datacodestudy.github.io/datacodestudy/de/</loc>
-    <lastmod>2020-11-01T16:30:02+01:00</lastmod>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,56 +44,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://datacodestudy.github.io/datacodestudy/de/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://datacodestudy.github.io/datacodestudy/de/tags/engineering/</loc>
-    <lastmod>2020-11-01T16:30:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datacodestudy.github.io/datacodestudy/de/tags/management/</loc>
-    <lastmod>2020-11-01T16:30:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datacodestudy.github.io/datacodestudy/de/posts/</loc>
-    <lastmod>2020-11-01T16:30:02+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datacodestudy.github.io/datacodestudy/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://datacodestudy.github.io/datacodestudy/de/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://datacodestudy.github.io/datacodestudy/de/tags/requirements/</loc>
-    <lastmod>2020-11-01T16:30:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datacodestudy.github.io/datacodestudy/de/posts/remanagement/</loc>
-    <lastmod>2020-11-01T16:30:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datacodestudy.github.io/datacodestudy/de/tags/</loc>
-    <lastmod>2020-11-01T16:30:02+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datacodestudy.github.io/datacodestudy/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://datacodestudy.github.io/datacodestudy/de/tags/"
                 />
   </url>
   
@@ -200,6 +150,106 @@
                 hreflang="de"
                 href="https://datacodestudy.github.io/datacodestudy/de/contact/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://datacodestudy.github.io/datacodestudy/de/categories/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datacodestudy.github.io/datacodestudy/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://datacodestudy.github.io/datacodestudy/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datacodestudy.github.io/datacodestudy/de/tags/css/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datacodestudy.github.io/datacodestudy/de/tags/html/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datacodestudy.github.io/datacodestudy/de/tags/markdown/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datacodestudy.github.io/datacodestudy/de/posts/markdown-syntax/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datacodestudy.github.io/datacodestudy/de/posts/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datacodestudy.github.io/datacodestudy/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://datacodestudy.github.io/datacodestudy/de/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datacodestudy.github.io/datacodestudy/de/series/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datacodestudy.github.io/datacodestudy/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://datacodestudy.github.io/datacodestudy/de/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datacodestudy.github.io/datacodestudy/de/categories/syntax/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datacodestudy.github.io/datacodestudy/de/tags/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datacodestudy.github.io/datacodestudy/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://datacodestudy.github.io/datacodestudy/de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datacodestudy.github.io/datacodestudy/de/tags/themes/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datacodestudy.github.io/datacodestudy/de/categories/themes/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datacodestudy.github.io/datacodestudy/de/series/themes-guide/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
@@ -353,20 +403,6 @@
   </url>
   
   <url>
-    <loc>https://datacodestudy.github.io/datacodestudy/de/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datacodestudy.github.io/datacodestudy/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://datacodestudy.github.io/datacodestudy/de/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>https://datacodestudy.github.io/datacodestudy/de/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
@@ -377,20 +413,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://datacodestudy.github.io/datacodestudy/de/tags/index/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://datacodestudy.github.io/datacodestudy/de/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datacodestudy.github.io/datacodestudy/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://datacodestudy.github.io/datacodestudy/de/series/"
                 />
   </url>
   
