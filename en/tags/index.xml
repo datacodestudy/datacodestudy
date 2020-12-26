@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on Home</title>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/</link>
+    <description>Recent content in Tags on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>datacodestudy@gmail.com (PEREZRE)</managingEditor>
+    <webMaster>datacodestudy@gmail.com (PEREZRE)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 26 Dec 2020 17:32:25 +0100</lastBuildDate>
+    
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>B2B</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/b2b/</link>
+        <pubDate>Sat, 26 Dec 2020 17:32:25 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/b2b/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Demand Generation</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/demand-generation/</link>
+        <pubDate>Sat, 26 Dec 2020 17:32:25 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/demand-generation/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Lead Generation</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/lead-generation/</link>
+        <pubDate>Sat, 26 Dec 2020 17:32:25 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/lead-generation/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>zapier</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/zapier/</link>
+        <pubDate>Sun, 25 Oct 2020 18:43:13 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/zapier/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>webflow</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/webflow/</link>
+        <pubDate>Sun, 11 Oct 2020 18:27:25 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/webflow/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>web</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/web/</link>
+        <pubDate>Sun, 27 Sep 2020 16:26:42 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/web/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>typescript</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/typescript/</link>
+        <pubDate>Sun, 13 Sep 2020 18:29:22 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/typescript/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>sql</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/sql/</link>
+        <pubDate>Sun, 30 Aug 2020 17:26:36 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/sql/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>spreadsheet</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/spreadsheet/</link>
+        <pubDate>Sun, 16 Aug 2020 16:05:02 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/spreadsheet/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>security</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/security/</link>
+        <pubDate>Sun, 02 Aug 2020 18:04:04 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/security/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>regex</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/regex/</link>
+        <pubDate>Sun, 19 Jul 2020 18:37:13 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/regex/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>react</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/react/</link>
+        <pubDate>Sun, 05 Jul 2020 18:23:40 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/react/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>python</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/python/</link>
+        <pubDate>Sun, 21 Jun 2020 16:14:24 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/python/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>mongodb</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/mongodb/</link>
+        <pubDate>Sun, 07 Jun 2020 18:39:34 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/mongodb/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>linux</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/linux/</link>
+        <pubDate>Sun, 24 May 2020 18:07:53 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/linux/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>javascript</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/javascript/</link>
+        <pubDate>Sun, 10 May 2020 16:36:18 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/javascript/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>java</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/java/</link>
+        <pubDate>Sun, 26 Apr 2020 17:31:00 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/java/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>go</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/go/</link>
+        <pubDate>Sun, 12 Apr 2020 18:01:08 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/go/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>docker</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/docker/</link>
+        <pubDate>Sun, 29 Mar 2020 18:22:18 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/docker/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>data analysis</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/data-analysis/</link>
+        <pubDate>Sun, 15 Mar 2020 17:57:25 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/data-analysis/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>computer science</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/computer-science/</link>
+        <pubDate>Sun, 01 Mar 2020 18:17:04 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/computer-science/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>coding</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/coding/</link>
+        <pubDate>Sun, 16 Feb 2020 16:24:31 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/coding/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>blockchain</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/blockchain/</link>
+        <pubDate>Sun, 02 Feb 2020 18:31:04 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/blockchain/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>airtable</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/airtable/</link>
+        <pubDate>Sun, 19 Jan 2020 18:45:16 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/airtable/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>git</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/git/</link>
+        <pubDate>Sun, 05 Jan 2020 19:06:46 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/git/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>index</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/index/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/index/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

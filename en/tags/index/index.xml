@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>index on Home</title>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/index/</link>
+    <description>Recent content in index on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>datacodestudy@gmail.com (PEREZRE)</managingEditor>
+    <webMaster>datacodestudy@gmail.com (PEREZRE)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Posts</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/</link>
+        <pubDate>Sat, 26 Dec 2020 17:32:25 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/</guid>
+        <description></description>
+        
+        <dc:creator>Hugo Authors</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>index</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

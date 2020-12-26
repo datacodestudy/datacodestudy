@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>python on Home</title>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/python/</link>
+    <description>Recent content in python on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>datacodestudy@gmail.com (PEREZRE)</managingEditor>
+    <webMaster>datacodestudy@gmail.com (PEREZRE)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 21 Jun 2020 16:14:24 +0100</lastBuildDate>
+    
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Python</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/python/</link>
+        <pubDate>Sun, 21 Jun 2020 16:14:24 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 21 Jun 2020 16:14:24 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/python/</guid>
+        <description>Python - Core Meet Python Syntax &amp;amp; Numerical Operators Control Flow I Control Flow II Sequential Data Types I Sequential Data Types II Unordered Data Types Looping Functions Tips Intro to Modules Basic File Manipulation Playing with Time Working with Strings Classes I Classes II Utilities I Is Your Python Healthy? Testing Math Recipes String recipes More on Lists More on Sets More on Dictionaries Recipes Deep into Collections Advanced Queues More on Classes Bits, bytes &amp;amp; Hexadecimals Memory Allocation Advanced Referencing Utilities II Python - Functional Programming Manipulating Arrays Analyzing Arrays Comprehension Decorators Functional Programming I Functional Programming II Generators Immutability Introduction to Iterators </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

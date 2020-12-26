@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>git on Home</title>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/git/</link>
+    <description>Recent content in git on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>datacodestudy@gmail.com (PEREZRE)</managingEditor>
+    <webMaster>datacodestudy@gmail.com (PEREZRE)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 05 Jan 2020 19:06:46 +0100</lastBuildDate>
+    
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>What is Git</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/git/</link>
+        <pubDate>Sun, 05 Jan 2020 19:06:46 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sat, 11 Jan 2020 19:06:46 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/git/</guid>
+        <description>Git - Essentials What is Git? Git is standard of version control.
+It&amp;rsquo;s the most commercial (and open-source) projects ust to keep track versions of their products.
+ It was developed by Linux Torvalds
+ Why Git? Before Git things you had to
+ Get all previous changes from the central server. Edit the files and make sure they work. Send all the changes to the central server.  Now with Git, every developer can have their own copy of the project.</description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>git</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

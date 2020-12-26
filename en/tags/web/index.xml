@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>web on Home</title>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/web/</link>
+    <description>Recent content in web on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>datacodestudy@gmail.com (PEREZRE)</managingEditor>
+    <webMaster>datacodestudy@gmail.com (PEREZRE)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 27 Sep 2020 16:26:42 +0100</lastBuildDate>
+    
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Web</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/web/</link>
+        <pubDate>Sun, 27 Sep 2020 16:26:42 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 27 Sep 2020 16:26:42 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/web/</guid>
+        <description>Web - HTML Web Introduction HTML Basic HTML Structure Core HTML Elements Web Page Structure Advanced Images Links I Links II Lists Media Forms Advanced Input Controls Tables Meta Elements I Mete Elements II Sectioning Elements Formating HTML Elements Meter &amp;amp; Progress Formatting Text Elements I Formatting Text Elements II Advanced Text Input Advanced Button Attributes Interface Form Attributes Global Attributes Semantic Sections Citation Elements Computer Code Best Practices HTML Entities HTML Versions Styling Introduction to CSS CSS Basics The Box Model Positioning Dimensions &amp;amp; Box Sizing Practical CSS Typography how-to&amp;rsquo;s Centring Recipes Colors Tips Positioning Tips Styling I Styling II Styling III Pseudo Classes I Pseude Classes II Pseudo Elements Flexbox Features Recipes Responsive Design Tips Sass I Sass II Sass III Animations CSS Animation </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>web</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
