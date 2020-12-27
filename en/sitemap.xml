@@ -34,7 +34,7 @@
   
   <url>
     <loc>https://datacodestudy.github.io/datacodestudy/en/</loc>
-    <lastmod>2020-12-26T17:32:25+01:00</lastmod>
+    <lastmod>2020-12-26T15:36:46+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -48,28 +48,18 @@
   </url>
   
   <url>
-    <loc>https://datacodestudy.github.io/datacodestudy/en/tags/b2b/</loc>
-    <lastmod>2020-12-26T17:32:25+01:00</lastmod>
+    <loc>https://datacodestudy.github.io/datacodestudy/en/tags/extreme-programming/</loc>
+    <lastmod>2020-12-26T15:36:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://datacodestudy.github.io/datacodestudy/en/tags/demand-generation/</loc>
-    <lastmod>2020-12-26T17:32:25+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datacodestudy.github.io/datacodestudy/en/tags/lead-generation/</loc>
-    <lastmod>2020-12-26T17:32:25+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datacodestudy.github.io/datacodestudy/en/posts/art/</loc>
-    <lastmod>2020-12-26T17:32:25+01:00</lastmod>
+    <loc>https://datacodestudy.github.io/datacodestudy/en/posts/art351/</loc>
+    <lastmod>2020-12-26T15:36:46+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://datacodestudy.github.io/datacodestudy/en/posts/</loc>
-    <lastmod>2020-12-26T17:32:25+01:00</lastmod>
+    <lastmod>2020-12-26T15:36:46+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -83,8 +73,13 @@
   </url>
   
   <url>
+    <loc>https://datacodestudy.github.io/datacodestudy/en/tags/scrum/</loc>
+    <lastmod>2020-12-26T15:36:46+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://datacodestudy.github.io/datacodestudy/en/tags/</loc>
-    <lastmod>2020-12-26T17:32:25+01:00</lastmod>
+    <lastmod>2020-12-26T15:36:46+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -95,6 +90,26 @@
                 hreflang="en"
                 href="https://datacodestudy.github.io/datacodestudy/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://datacodestudy.github.io/datacodestudy/en/tags/b2b/</loc>
+    <lastmod>2020-12-25T17:32:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datacodestudy.github.io/datacodestudy/en/tags/demand-generation/</loc>
+    <lastmod>2020-12-25T17:32:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datacodestudy.github.io/datacodestudy/en/tags/lead-generation/</loc>
+    <lastmod>2020-12-25T17:32:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datacodestudy.github.io/datacodestudy/en/posts/art350/</loc>
+    <lastmod>2020-12-25T17:32:25+01:00</lastmod>
   </url>
   
   <url>
@@ -515,11 +530,6 @@
                 hreflang="en"
                 href="https://datacodestudy.github.io/datacodestudy/en/archive/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://datacodestudy.github.io/datacodestudy/en/private/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url>
   
   <url>

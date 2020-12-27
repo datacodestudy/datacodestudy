@@ -14,7 +14,7 @@
     <managingEditor>datacodestudy@gmail.com (PEREZRE)</managingEditor>
     <webMaster>datacodestudy@gmail.com (PEREZRE)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 26 Dec 2020 17:32:25 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 26 Dec 2020 15:36:46 +0100</lastBuildDate>
     
         <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,9 +23,45 @@
 
       
       <item>
+        <title>extreme programming</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/extreme-programming/</link>
+        <pubDate>Sat, 26 Dec 2020 15:36:46 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/extreme-programming/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>scrum</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/tags/scrum/</link>
+        <pubDate>Sat, 26 Dec 2020 15:36:46 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        
+        <guid>https://datacodestudy.github.io/datacodestudy/en/tags/scrum/</guid>
+        <description></description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>B2B</title>
         <link>https://datacodestudy.github.io/datacodestudy/en/tags/b2b/</link>
-        <pubDate>Sat, 26 Dec 2020 17:32:25 +0100</pubDate>
+        <pubDate>Fri, 25 Dec 2020 17:32:25 +0100</pubDate>
         <author>datacodestudy@gmail.com (PEREZRE)</author>
         
         <guid>https://datacodestudy.github.io/datacodestudy/en/tags/b2b/</guid>
@@ -43,7 +79,7 @@
       <item>
         <title>Demand Generation</title>
         <link>https://datacodestudy.github.io/datacodestudy/en/tags/demand-generation/</link>
-        <pubDate>Sat, 26 Dec 2020 17:32:25 +0100</pubDate>
+        <pubDate>Fri, 25 Dec 2020 17:32:25 +0100</pubDate>
         <author>datacodestudy@gmail.com (PEREZRE)</author>
         
         <guid>https://datacodestudy.github.io/datacodestudy/en/tags/demand-generation/</guid>
@@ -61,7 +97,7 @@
       <item>
         <title>Lead Generation</title>
         <link>https://datacodestudy.github.io/datacodestudy/en/tags/lead-generation/</link>
-        <pubDate>Sat, 26 Dec 2020 17:32:25 +0100</pubDate>
+        <pubDate>Fri, 25 Dec 2020 17:32:25 +0100</pubDate>
         <author>datacodestudy@gmail.com (PEREZRE)</author>
         
         <guid>https://datacodestudy.github.io/datacodestudy/en/tags/lead-generation/</guid>
