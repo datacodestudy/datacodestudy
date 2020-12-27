@@ -24,11 +24,11 @@
       
       <item>
         <title>Docker</title>
-        <link>https://datacodestudy.github.io/datacodestudy/en/posts/docker/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/docker/</link>
         <pubDate>Sun, 29 Mar 2020 18:22:18 +0100</pubDate>
         <author>datacodestudy@gmail.com (PEREZRE)</author>
         <atom:modified>Sun, 29 Mar 2020 18:22:18 +0100</atom:modified>
-        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/docker/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/docker/</guid>
         <description>Docker - Fundamentals Overview Containers Images Storage Networking </description>
         
         <dc:creator>PEREZRE</dc:creator>

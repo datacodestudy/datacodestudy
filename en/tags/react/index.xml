@@ -24,11 +24,11 @@
       
       <item>
         <title>React</title>
-        <link>https://datacodestudy.github.io/datacodestudy/en/posts/react/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/react/</link>
         <pubDate>Sun, 05 Jul 2020 18:23:40 +0100</pubDate>
         <author>datacodestudy@gmail.com (PEREZRE)</author>
         <atom:modified>Sun, 05 Jul 2020 18:23:40 +0100</atom:modified>
-        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/react/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/react/</guid>
         <description>React - Introduction Intro to React Fundamentals I Fundamentals II Basic of React How to React Introduction to Hooks React - Intermediary Props validation Advanced Props Props III Hooks I Redux React - Tips Common Mistages Good to know Gotchas Redux Tips </description>
         
         <dc:creator>PEREZRE</dc:creator>

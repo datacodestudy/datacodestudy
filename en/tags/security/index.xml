@@ -24,11 +24,11 @@
       
       <item>
         <title>Security</title>
-        <link>https://datacodestudy.github.io/datacodestudy/en/posts/security/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/security/</link>
         <pubDate>Sun, 02 Aug 2020 18:04:04 +0100</pubDate>
         <author>datacodestudy@gmail.com (PEREZRE)</author>
         <atom:modified>Sun, 02 Aug 2020 18:04:04 +0100</atom:modified>
-        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/security/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/security/</guid>
         <description>Security - Application Security Intro to AppSec OSI I OSI II Securing Each Layer I Securing Each Layer II XSS XXE SQL Injection Deserialization Dependency Analysis Access Control Security Misconfiguration </description>
         
         <dc:creator>PEREZRE</dc:creator>

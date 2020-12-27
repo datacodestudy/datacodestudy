@@ -24,11 +24,11 @@
       
       <item>
         <title>Java</title>
-        <link>https://datacodestudy.github.io/datacodestudy/en/posts/java/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/java/</link>
         <pubDate>Sun, 26 Apr 2020 17:31:00 +0100</pubDate>
         <author>datacodestudy@gmail.com (PEREZRE)</author>
         <atom:modified>Sun, 26 Apr 2020 17:31:00 +0100</atom:modified>
-        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/java/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/java/</guid>
         <description>Java - Fundamentals Introduction to Java Java Basics Operators I Operators II Tip I Tip II Tip III Default Methods Iteration Memory Object-Oriented Programming Paradigm Modifiers Class Dependency I Class Dependency II Exceptions I Exceptions II Patterns Tips IV Class Interface Tips The abstract keyword Immutability Serialization Tips V Annotations I Annotations II Annotations III Java - Data Management Arrays Byte Operations I File Management Numbers I Numbers II Strings I Strings II Strings III Tips I Wildcards in Generic Code Writing Generic Code Buffered Streams Data Structures Implementations File &amp;amp; System Manipulation I File &amp;amp; System Manipulation II Tips II Useful Tools I Useful Tools II File &amp;amp; System Manipulation III Java - Testing Testing I Testing II Java Threading Threading Deadlocks Synchronization I Synchronization II Deadlocks </description>
         
         <dc:creator>PEREZRE</dc:creator>

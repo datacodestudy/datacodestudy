@@ -24,11 +24,11 @@
       
       <item>
         <title>Blockchain</title>
-        <link>https://datacodestudy.github.io/datacodestudy/en/posts/blockchain/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/blockchain/</link>
         <pubDate>Sun, 02 Feb 2020 18:31:04 +0100</pubDate>
         <author>datacodestudy@gmail.com (PEREZRE)</author>
         <atom:modified>Sun, 02 Feb 2020 18:31:04 +0100</atom:modified>
-        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/blockchain/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/blockchain/</guid>
         <description>Blockchain - Fundamentals Introduction The Blockchain The Bitcoin Blockchain Building the Ledger Mining Wallets Bitcoin Anonymity Altcoins Consesus Algorithms Forking Cryptoeconomics Ethereum I Solidity Ethereum II Ethereum on the Web </description>
         
         <dc:creator>PEREZRE</dc:creator>

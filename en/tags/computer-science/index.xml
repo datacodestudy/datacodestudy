@@ -24,11 +24,11 @@
       
       <item>
         <title>Computer Science</title>
-        <link>https://datacodestudy.github.io/datacodestudy/en/posts/compsci/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/compsci/</link>
         <pubDate>Sun, 01 Mar 2020 18:17:04 +0100</pubDate>
         <author>datacodestudy@gmail.com (PEREZRE)</author>
         <atom:modified>Sun, 01 Mar 2020 18:17:04 +0100</atom:modified>
-        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/compsci/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/compsci/</guid>
         <description>Computer Science - Data Structures and Algorithms Intro to Data Structures Intro to Graphs Algorithms I Binary Search Tree Heap and Trie Tree Traversals Algorithms II Graph Algorithms MST Algorithms Computer Science - Networking Fundamentals I Fundamentals II Metrics Tools Intro to HTTP Requests and Responses HTTP Status Codes </description>
         
         <dc:creator>PEREZRE</dc:creator>

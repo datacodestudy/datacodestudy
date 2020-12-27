@@ -24,11 +24,11 @@
       
       <item>
         <title>JavaScript</title>
-        <link>https://datacodestudy.github.io/datacodestudy/en/posts/javascript/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/javascript/</link>
         <pubDate>Sun, 10 May 2020 16:36:18 +0100</pubDate>
         <author>datacodestudy@gmail.com (PEREZRE)</author>
         <atom:modified>Sun, 10 May 2020 16:36:18 +0100</atom:modified>
-        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/javascript/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/javascript/</guid>
         <description>JavaScript - Core Introduction JavaScript Types Flow Control Functions History &amp;amp; Obscura Arrays Objects Types II Strings I Strings II Numbers Array Methods Funtions II Scope Debugging in JavaScript Functions III Numbers Recipes JavaScript Depths Data Recipes JavaScript - ECMAscript Intro to ECMAScript Function Improvements New Numericals Array Updates Destructuring String Upgrades Spread, Map, Set and Math String Flexibility Classes &amp;amp; Modules Promises Async Tips Symbol Iterators &amp;amp; Generators Generators &amp;amp; Proxy JavaScript - Browser APIs Bowser APIs The Document Object Navigation Toolbox I Measuring Performance Reading and Writing Toolbox II User Interaction JavaScript - NodeJS Intro to Node.</description>
         
         <dc:creator>PEREZRE</dc:creator>

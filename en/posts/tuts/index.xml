@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tutorials on Home</title>
+    <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/</link>
+    <description>Recent content in Tutorials on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>datacodestudy@gmail.com (PEREZRE)</managingEditor>
+    <webMaster>datacodestudy@gmail.com (PEREZRE)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 25 Oct 2020 18:43:13 +0100</lastBuildDate>
+    
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/posts/tuts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Zapier</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/zapier/</link>
+        <pubDate>Sun, 25 Oct 2020 18:43:13 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 25 Oct 2020 18:43:13 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/zapier/</guid>
+        <description>Zapier - Introduction What is Zapier? First Zap Zaps I Zaps II Data Filtering Build-in Apps Task History </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>zapier</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Webflow</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/webflow/</link>
+        <pubDate>Sun, 11 Oct 2020 18:27:25 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 11 Oct 2020 18:27:25 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/webflow/</guid>
+        <description>Webflow - Introduction What is Webflow? Basics of Web Templates Do It Yourself Intro Components Style Template Editing Layouts </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>webflow</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Web</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/web/</link>
+        <pubDate>Sun, 27 Sep 2020 16:26:42 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 27 Sep 2020 16:26:42 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/web/</guid>
+        <description>Web - HTML Web Introduction HTML Basic HTML Structure Core HTML Elements Web Page Structure Advanced Images Links I Links II Lists Media Forms Advanced Input Controls Tables Meta Elements I Mete Elements II Sectioning Elements Formating HTML Elements Meter &amp;amp; Progress Formatting Text Elements I Formatting Text Elements II Advanced Text Input Advanced Button Attributes Interface Form Attributes Global Attributes Semantic Sections Citation Elements Computer Code Best Practices HTML Entities HTML Versions Styling Introduction to CSS CSS Basics The Box Model Positioning Dimensions &amp;amp; Box Sizing Practical CSS Typography how-to&amp;rsquo;s Centring Recipes Colors Tips Positioning Tips Styling I Styling II Styling III Pseudo Classes I Pseude Classes II Pseudo Elements Flexbox Features Recipes Responsive Design Tips Sass I Sass II Sass III Animations CSS Animation </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>web</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Typescript</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/typescript/</link>
+        <pubDate>Sun, 13 Sep 2020 18:29:22 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 13 Sep 2020 18:29:22 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/typescript/</guid>
+        <description>TypeSript - Introduction Intro to TypeScript Using Types Basic Types Classes &amp;amp; Interfaces </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>typescript</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>SQL</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/sql/</link>
+        <pubDate>Sun, 30 Aug 2020 17:26:36 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 30 Aug 2020 17:26:36 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/sql/</guid>
+        <description>SQL - Quering Data What is SQL? Using SELECT Building Queries Special Operators Aggregate Queries JOINs Database Clients SQL - Manipulating Data Introduction Insert Update Delete SQL - Defining Data Create Data Types Alter Indices Storing BLOBs Storing JSON </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>sql</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Spreadsheets</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/spreadsheets/</link>
+        <pubDate>Sun, 16 Aug 2020 16:05:02 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 16 Aug 2020 16:05:02 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/spreadsheets/</guid>
+        <description>Spreadsheet - Introduction Introduction Terminology &amp;amp; Basics Templates Data Types &amp;amp; Validation Filtering &amp;amp; Grouping Functions &amp;amp; Formulas Charts Spreadsheet - Intermediate Chart Types &amp;amp; Data Chart Customizations Importing Data Intro Pivot Tables Conditional Formatting Add-Ons Pivot Table Rules &amp;amp; Data Spreadsheet - Functions &amp;amp; Formulas Logical Functions Number Functions Text &amp;amp; Date Functions Parser Functions Math Functions Import Functions Error Checking Functions Google Functions Sparkline Function Comparison Operators &amp;amp; Functions Spreadsheet - Tips &amp;amp; Tricks Tips &amp;amp; Tricks I Tips &amp;amp; Tricks II Common Mistages Spreadsheet Shortcuts </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>spreadsheet</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Security</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/security/</link>
+        <pubDate>Sun, 02 Aug 2020 18:04:04 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 02 Aug 2020 18:04:04 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/security/</guid>
+        <description>Security - Application Security Intro to AppSec OSI I OSI II Securing Each Layer I Securing Each Layer II XSS XXE SQL Injection Deserialization Dependency Analysis Access Control Security Misconfiguration </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>security</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Regex</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/regex/</link>
+        <pubDate>Sun, 19 Jul 2020 18:37:13 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 19 Jul 2020 18:37:13 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/regex/</guid>
+        <description>Regex - Introduction Intro Quantifiers and Wildcards Ranges, Groups and More! Email and Password Example More Practical Examples Even More Practical Examples Regex &amp;amp; JavaScript </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>regex</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>React</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/react/</link>
+        <pubDate>Sun, 05 Jul 2020 18:23:40 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 05 Jul 2020 18:23:40 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/react/</guid>
+        <description>React - Introduction Intro to React Fundamentals I Fundamentals II Basic of React How to React Introduction to Hooks React - Intermediary Props validation Advanced Props Props III Hooks I Redux React - Tips Common Mistages Good to know Gotchas Redux Tips </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>react</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/python/</link>
+        <pubDate>Sun, 21 Jun 2020 16:14:24 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 21 Jun 2020 16:14:24 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/python/</guid>
+        <description>Python - Core Meet Python Syntax &amp;amp; Numerical Operators Control Flow I Control Flow II Sequential Data Types I Sequential Data Types II Unordered Data Types Looping Functions Tips Intro to Modules Basic File Manipulation Playing with Time Working with Strings Classes I Classes II Utilities I Is Your Python Healthy? Testing Math Recipes String recipes More on Lists More on Sets More on Dictionaries Recipes Deep into Collections Advanced Queues More on Classes Bits, bytes &amp;amp; Hexadecimals Memory Allocation Advanced Referencing Utilities II Python - Functional Programming Manipulating Arrays Analyzing Arrays Comprehension Decorators Functional Programming I Functional Programming II Generators Immutability Introduction to Iterators </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>MongoDB</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/mongodb/</link>
+        <pubDate>Sun, 07 Jun 2020 18:39:34 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 07 Jun 2020 18:39:34 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/mongodb/</guid>
+        <description>MongoDB - Introduction Intro Databases Create &amp;amp; Read Documents Update &amp;amp; Delete Documents Query Operators Aggregation I Aggregation II Delete &amp;amp; Query Save, Project &amp;amp; Rename Arithmetic Aggregation I Arithmetic Aggregation II Aggregation III Aggregation IV Querying Arrays </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>mongodb</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Linux</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/linux/</link>
+        <pubDate>Sun, 24 May 2020 18:07:53 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 24 May 2020 18:07:53 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/linux/</guid>
+        <description>Linux - User &amp;amp; File Management Introduction Environment Variables Manipulation Variables File Management File Permissions File Management Tips Shell Pipelines User Management User Permissions Terminal Power User Tips Conditions File Management Tips II Default Permissions Super User &amp;amp; Root Terminal History Pipeline Tools User Management Utilities Linux - Jobs &amp;amp; Processes, Data Manipulation Basics of Process Management File Streams Grep &amp;amp; Background Tasks Utilities Working with Files Data Manipulation Recipes Crontab Linux - System and Package management Basic Package Management Disk &amp;amp; Time Management System Monitoring I System Monitoring II System Monitoring III Debian System Recipes Linux - Networking &amp;amp; Security Basic of Linux Networking Making SSH Connections Maintaining your SSH Bandwith Monitoring Tools Firewall Configuration and Maintenance Connecting to Remote Hosts with SSH Webscraping Networkiing Tips Security </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>JavaScript</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/javascript/</link>
+        <pubDate>Sun, 10 May 2020 16:36:18 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 10 May 2020 16:36:18 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/javascript/</guid>
+        <description>JavaScript - Core Introduction JavaScript Types Flow Control Functions History &amp;amp; Obscura Arrays Objects Types II Strings I Strings II Numbers Array Methods Funtions II Scope Debugging in JavaScript Functions III Numbers Recipes JavaScript Depths Data Recipes JavaScript - ECMAscript Intro to ECMAScript Function Improvements New Numericals Array Updates Destructuring String Upgrades Spread, Map, Set and Math String Flexibility Classes &amp;amp; Modules Promises Async Tips Symbol Iterators &amp;amp; Generators Generators &amp;amp; Proxy JavaScript - Browser APIs Bowser APIs The Document Object Navigation Toolbox I Measuring Performance Reading and Writing Toolbox II User Interaction JavaScript - NodeJS Intro to Node.</description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>javascript</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Java</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/java/</link>
+        <pubDate>Sun, 26 Apr 2020 17:31:00 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 26 Apr 2020 17:31:00 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/java/</guid>
+        <description>Java - Fundamentals Introduction to Java Java Basics Operators I Operators II Tip I Tip II Tip III Default Methods Iteration Memory Object-Oriented Programming Paradigm Modifiers Class Dependency I Class Dependency II Exceptions I Exceptions II Patterns Tips IV Class Interface Tips The abstract keyword Immutability Serialization Tips V Annotations I Annotations II Annotations III Java - Data Management Arrays Byte Operations I File Management Numbers I Numbers II Strings I Strings II Strings III Tips I Wildcards in Generic Code Writing Generic Code Buffered Streams Data Structures Implementations File &amp;amp; System Manipulation I File &amp;amp; System Manipulation II Tips II Useful Tools I Useful Tools II File &amp;amp; System Manipulation III Java - Testing Testing I Testing II Java Threading Threading Deadlocks Synchronization I Synchronization II Deadlocks </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>java</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Go</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/go/</link>
+        <pubDate>Sun, 12 Apr 2020 18:01:08 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 12 Apr 2020 18:01:08 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/go/</guid>
+        <description>Go - Introduction Introduction Variables &amp;amp; Initialization Data Types &amp;amp; Constants Operators Importing, Exporting &amp;amp; Functions For &amp;amp; Switch If Statements Pointers, Structs, Slices &amp;amp; Arrays Range, Maps &amp;amp; Make Formatted I/O Methods, Pointers &amp;amp; Functions Interfaces </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>go</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Docker</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/docker/</link>
+        <pubDate>Sun, 29 Mar 2020 18:22:18 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 29 Mar 2020 18:22:18 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/docker/</guid>
+        <description>Docker - Fundamentals Overview Containers Images Storage Networking </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>docker</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Data Analysis</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/dataanalysis/</link>
+        <pubDate>Sun, 15 Mar 2020 17:57:25 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 15 Mar 2020 17:57:25 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/dataanalysis/</guid>
+        <description>Data Analysis - Core Intro Terminology Buzzwords Spreadsheets Google Analytics Sales Analytics Marketing Analytics Product Analytics Data Analysis - Data Tools BI Tools - Tableau BI Tools - Locker BI Tools - Mode SQL Python </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>data analysis</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Computer Science</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/compsci/</link>
+        <pubDate>Sun, 01 Mar 2020 18:17:04 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 01 Mar 2020 18:17:04 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/compsci/</guid>
+        <description>Computer Science - Data Structures and Algorithms Intro to Data Structures Intro to Graphs Algorithms I Binary Search Tree Heap and Trie Tree Traversals Algorithms II Graph Algorithms MST Algorithms Computer Science - Networking Fundamentals I Fundamentals II Metrics Tools Intro to HTTP Requests and Responses HTTP Status Codes </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>computer science</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Coding Intro</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/codingintro/</link>
+        <pubDate>Sun, 16 Feb 2020 16:24:31 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 16 Feb 2020 16:24:31 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/codingintro/</guid>
+        <description>Coding Intro - Core Introduction Core Concepts Variables &amp;amp; Data Collections Functions Conditions Loops </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Blockchain</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/blockchain/</link>
+        <pubDate>Sun, 02 Feb 2020 18:31:04 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 02 Feb 2020 18:31:04 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/blockchain/</guid>
+        <description>Blockchain - Fundamentals Introduction The Blockchain The Bitcoin Blockchain Building the Ledger Mining Wallets Bitcoin Anonymity Altcoins Consesus Algorithms Forking Cryptoeconomics Ethereum I Solidity Ethereum II Ethereum on the Web </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>blockchain</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Airtable</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/airtable/</link>
+        <pubDate>Sun, 19 Jan 2020 18:45:16 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sun, 19 Jan 2020 18:45:16 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/airtable/</guid>
+        <description>Airtable - Introduction What&amp;rsquo;s Airtable Basics Templates Views Relationships </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>airtable</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>What is Git</title>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/git/</link>
+        <pubDate>Sun, 05 Jan 2020 19:06:46 +0100</pubDate>
+        <author>datacodestudy@gmail.com (PEREZRE)</author>
+        <atom:modified>Sat, 11 Jan 2020 19:06:46 +0100</atom:modified>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/git/</guid>
+        <description>Git - Essentials What is Git? Git is standard of version control.
+It&amp;rsquo;s the most commercial (and open-source) projects ust to keep track versions of their products.
+ It was developed by Linux Torvalds
+ Why Git? Before Git things you had to
+ Get all previous changes from the central server. Edit the files and make sure they work. Send all the changes to the central server.  Now with Git, every developer can have their own copy of the project.</description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>git</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

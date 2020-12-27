@@ -24,11 +24,11 @@
       
       <item>
         <title>Go</title>
-        <link>https://datacodestudy.github.io/datacodestudy/en/posts/go/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/go/</link>
         <pubDate>Sun, 12 Apr 2020 18:01:08 +0100</pubDate>
         <author>datacodestudy@gmail.com (PEREZRE)</author>
         <atom:modified>Sun, 12 Apr 2020 18:01:08 +0100</atom:modified>
-        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/go/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/go/</guid>
         <description>Go - Introduction Introduction Variables &amp;amp; Initialization Data Types &amp;amp; Constants Operators Importing, Exporting &amp;amp; Functions For &amp;amp; Switch If Statements Pointers, Structs, Slices &amp;amp; Arrays Range, Maps &amp;amp; Make Formatted I/O Methods, Pointers &amp;amp; Functions Interfaces </description>
         
         <dc:creator>PEREZRE</dc:creator>

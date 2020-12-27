@@ -24,11 +24,11 @@
       
       <item>
         <title>SQL</title>
-        <link>https://datacodestudy.github.io/datacodestudy/en/posts/sql/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/sql/</link>
         <pubDate>Sun, 30 Aug 2020 17:26:36 +0100</pubDate>
         <author>datacodestudy@gmail.com (PEREZRE)</author>
         <atom:modified>Sun, 30 Aug 2020 17:26:36 +0100</atom:modified>
-        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/sql/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/sql/</guid>
         <description>SQL - Quering Data What is SQL? Using SELECT Building Queries Special Operators Aggregate Queries JOINs Database Clients SQL - Manipulating Data Introduction Insert Update Delete SQL - Defining Data Create Data Types Alter Indices Storing BLOBs Storing JSON </description>
         
         <dc:creator>PEREZRE</dc:creator>
