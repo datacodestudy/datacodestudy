@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://perezre.de/en/showcase/hugo/hugo-theme-zzo/</loc>
+    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/showcase/hugo/hugo-theme-zzo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/showcase/hugo/hugo-theme-zzo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/showcase/hugo/hugo-theme-zdoc/</loc>
+    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/showcase/hugo/hugo-theme-zdoc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/showcase/hugo/hugo-theme-zdoc/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/</loc>
+    <lastmod>2020-12-26T15:36:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/extreme-programming/</loc>
+    <lastmod>2020-12-26T15:36:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/art351/</loc>
+    <lastmod>2020-12-26T15:36:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/</loc>
+    <lastmod>2020-12-26T15:36:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/scrum/</loc>
+    <lastmod>2020-12-26T15:36:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/</loc>
+    <lastmod>2020-12-26T15:36:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/b2b/</loc>
+    <lastmod>2020-12-25T17:32:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/demand-generation/</loc>
+    <lastmod>2020-12-25T17:32:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/lead-generation/</loc>
+    <lastmod>2020-12-25T17:32:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/art350/</loc>
+    <lastmod>2020-12-25T17:32:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/</loc>
+    <lastmod>2020-10-25T18:43:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/zapier/</loc>
+    <lastmod>2020-10-25T18:43:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/zapier/</loc>
+    <lastmod>2020-10-25T18:43:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/webflow/</loc>
+    <lastmod>2020-10-11T18:27:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/webflow/</loc>
+    <lastmod>2020-10-11T18:27:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/web/</loc>
+    <lastmod>2020-09-27T16:26:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/web/</loc>
+    <lastmod>2020-09-27T16:26:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/typescript/</loc>
+    <lastmod>2020-09-13T18:29:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/typescript/</loc>
+    <lastmod>2020-09-13T18:29:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/sql/</loc>
+    <lastmod>2020-08-30T17:26:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/sql/</loc>
+    <lastmod>2020-08-30T17:26:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/spreadsheet/</loc>
+    <lastmod>2020-08-16T16:05:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/spreadsheets/</loc>
+    <lastmod>2020-08-16T16:05:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/security/</loc>
+    <lastmod>2020-08-02T18:04:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/security/</loc>
+    <lastmod>2020-08-02T18:04:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/regex/</loc>
+    <lastmod>2020-07-19T18:37:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/regex/</loc>
+    <lastmod>2020-07-19T18:37:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/react/</loc>
+    <lastmod>2020-07-05T18:23:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/react/</loc>
+    <lastmod>2020-07-05T18:23:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/python/</loc>
+    <lastmod>2020-06-21T16:14:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/python/</loc>
+    <lastmod>2020-06-21T16:14:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/mongodb/</loc>
+    <lastmod>2020-06-07T18:39:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/mongodb/</loc>
+    <lastmod>2020-06-07T18:39:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/linux/</loc>
+    <lastmod>2020-05-24T18:07:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/linux/</loc>
+    <lastmod>2020-05-24T18:07:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/javascript/</loc>
+    <lastmod>2020-05-10T16:36:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/javascript/</loc>
+    <lastmod>2020-05-10T16:36:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/java/</loc>
+    <lastmod>2020-04-26T17:31:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/java/</loc>
+    <lastmod>2020-04-26T17:31:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/go/</loc>
+    <lastmod>2020-04-12T18:01:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/go/</loc>
+    <lastmod>2020-04-12T18:01:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/docker/</loc>
+    <lastmod>2020-03-29T18:22:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/docker/</loc>
+    <lastmod>2020-03-29T18:22:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/dataanalysis/</loc>
+    <lastmod>2020-03-15T17:57:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/data-analysis/</loc>
+    <lastmod>2020-03-15T17:57:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/publication/article/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/publication/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/publication/article/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/publication/book/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/publication/book/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/publication/book/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/publication/misc/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/publication/misc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/publication/misc/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/publication/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/compsci/</loc>
+    <lastmod>2020-03-01T18:17:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/computer-science/</loc>
+    <lastmod>2020-03-01T18:17:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/coding/</loc>
+    <lastmod>2020-02-16T16:24:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/codingintro/</loc>
+    <lastmod>2020-02-16T16:24:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/blockchain/</loc>
+    <lastmod>2020-02-02T18:31:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/blockchain/</loc>
+    <lastmod>2020-02-02T18:31:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/airtable/</loc>
+    <lastmod>2020-01-19T18:45:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/airtable/</loc>
+    <lastmod>2020-01-19T18:45:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/showcase/hugo/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/showcase/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/showcase/hugo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/showcase/</loc>
+    <lastmod>2020-01-19T15:43:38+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/showcase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/showcase/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/git/</loc>
+    <lastmod>2020-01-11T19:06:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/posts/tuts/git/</loc>
+    <lastmod>2020-01-11T19:06:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/presentation/dir/fourth/</loc>
+    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/presentation/dir/fourth/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/presentation/dir/fourth/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/presentation/</loc>
+    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/presentation/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/presentation/third/</loc>
+    <lastmod>2019-10-30T20:46:30+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/presentation/third/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/presentation/third/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/presentation/second/</loc>
+    <lastmod>2019-10-30T20:45:24+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/presentation/second/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/presentation/second/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/presentation/first/</loc>
+    <lastmod>2019-10-30T19:45:20+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/presentation/first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/presentation/first/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/archive/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/publication/article/article_any_folder_name_1/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/publication/article/article_any_folder_name_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/publication/article/article_any_folder_name_1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/publication/book/book_any_folder_name_1/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/publication/book/book_any_folder_name_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/publication/book/book_any_folder_name_1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/publication/misc/misc_any_folder_name_1/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/publication/misc/misc_any_folder_name_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/publication/misc/misc_any_folder_name_1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/tags/index/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/tags/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/tags/index/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://perezre.de/en/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://perezre.de/de/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://perezre.de/en/series/"
+                />
+  </url>
+  
+</urlset>

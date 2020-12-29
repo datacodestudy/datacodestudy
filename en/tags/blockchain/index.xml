@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>blockchain on Home</title>
+    <link>https://perezre.de/en/tags/blockchain/</link>
+    <description>Recent content in blockchain on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>contact@perezre.de (PEREZRE)</managingEditor>
+    <webMaster>contact@perezre.de (PEREZRE)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 02 Feb 2020 18:31:04 +0100</lastBuildDate>
+    
+        <atom:link href="https://perezre.de/en/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Blockchain</title>
+        <link>https://perezre.de/en/posts/tuts/blockchain/</link>
+        <pubDate>Sun, 02 Feb 2020 18:31:04 +0100</pubDate>
+        <author>contact@perezre.de (PEREZRE)</author>
+        <atom:modified>Sun, 02 Feb 2020 18:31:04 +0100</atom:modified>
+        <guid>https://perezre.de/en/posts/tuts/blockchain/</guid>
+        <description>Blockchain - Fundamentals Introduction The Blockchain The Bitcoin Blockchain Building the Ledger Mining Wallets Bitcoin Anonymity Altcoins Consesus Algorithms Forking Cryptoeconomics Ethereum I Solidity Ethereum II Ethereum on the Web </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>blockchain</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

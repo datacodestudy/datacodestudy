@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>scrum on Home</title>
+    <link>https://perezre.de/en/tags/scrum/</link>
+    <description>Recent content in scrum on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>contact@perezre.de (PEREZRE)</managingEditor>
+    <webMaster>contact@perezre.de (PEREZRE)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 26 Dec 2020 15:36:46 +0100</lastBuildDate>
+    
+        <atom:link href="https://perezre.de/en/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Extreme Programming and Scrum</title>
+        <link>https://perezre.de/en/posts/art351/</link>
+        <pubDate>Sat, 26 Dec 2020 15:36:46 +0100</pubDate>
+        <author>contact@perezre.de (PEREZRE)</author>
+        <atom:modified>Sat, 26 Dec 2020 15:36:46 +0100</atom:modified>
+        <guid>https://perezre.de/en/posts/art351/</guid>
+        <description>Instead of having one big release at the end of a long development cycle the idea of Extreme Programming tries to release often.
+The main advantages of small releases are the gain of experience. This show the accuracy of the team towards the project.
+Extreme Programming is promoting small releases through CI (continuous integration) and some other extreme programming practices.
+With small releases a team can deliver small working incement in few weeks.</description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>extreme programming</category>
+            
+          
+            
+              <category>scrum</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

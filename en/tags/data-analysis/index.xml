@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>data analysis on Home</title>
+    <link>https://perezre.de/en/tags/data-analysis/</link>
+    <description>Recent content in data analysis on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>contact@perezre.de (PEREZRE)</managingEditor>
+    <webMaster>contact@perezre.de (PEREZRE)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 15 Mar 2020 17:57:25 +0100</lastBuildDate>
+    
+        <atom:link href="https://perezre.de/en/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Data Analysis</title>
+        <link>https://perezre.de/en/posts/tuts/dataanalysis/</link>
+        <pubDate>Sun, 15 Mar 2020 17:57:25 +0100</pubDate>
+        <author>contact@perezre.de (PEREZRE)</author>
+        <atom:modified>Sun, 15 Mar 2020 17:57:25 +0100</atom:modified>
+        <guid>https://perezre.de/en/posts/tuts/dataanalysis/</guid>
+        <description>Data Analysis - Core Intro Terminology Buzzwords Spreadsheets Google Analytics Sales Analytics Marketing Analytics Product Analytics Data Analysis - Data Tools BI Tools - Tableau BI Tools - Locker BI Tools - Mode SQL Python </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>data analysis</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

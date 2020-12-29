@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>mongodb on Home</title>
+    <link>https://perezre.de/en/tags/mongodb/</link>
+    <description>Recent content in mongodb on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>contact@perezre.de (PEREZRE)</managingEditor>
+    <webMaster>contact@perezre.de (PEREZRE)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 07 Jun 2020 18:39:34 +0100</lastBuildDate>
+    
+        <atom:link href="https://perezre.de/en/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>MongoDB</title>
+        <link>https://perezre.de/en/posts/tuts/mongodb/</link>
+        <pubDate>Sun, 07 Jun 2020 18:39:34 +0100</pubDate>
+        <author>contact@perezre.de (PEREZRE)</author>
+        <atom:modified>Sun, 07 Jun 2020 18:39:34 +0100</atom:modified>
+        <guid>https://perezre.de/en/posts/tuts/mongodb/</guid>
+        <description>MongoDB - Introduction Intro Databases Create &amp;amp; Read Documents Update &amp;amp; Delete Documents Query Operators Aggregation I Aggregation II Delete &amp;amp; Query Save, Project &amp;amp; Rename Arithmetic Aggregation I Arithmetic Aggregation II Aggregation III Aggregation IV Querying Arrays </description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>mongodb</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

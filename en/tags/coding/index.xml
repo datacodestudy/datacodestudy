@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>coding on Home</title>
+    <link>https://perezre.de/en/tags/coding/</link>
+    <description>Recent content in coding on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>contact@perezre.de (PEREZRE)</managingEditor>
+    <webMaster>contact@perezre.de (PEREZRE)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 16 Feb 2020 16:24:31 +0100</lastBuildDate>
+    
+        <atom:link href="https://perezre.de/en/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Coding Intro</title>
+        <link>https://perezre.de/en/posts/tuts/codingintro/</link>
+        <pubDate>Sun, 16 Feb 2020 16:24:31 +0100</pubDate>
+        <author>contact@perezre.de (PEREZRE)</author>
+        <atom:modified>Sun, 16 Feb 2020 16:24:31 +0100</atom:modified>
+        <guid>https://perezre.de/en/posts/tuts/codingintro/</guid>
+        <description>Coding Intro - Core Introduction Intro to Coding If one want to learn to code here one can get started.
+Here will be covered the core features everyone yould know before starting to program. Here will be emphasize key themes and tools that be useful.
+All programming languages have a handful of building blocks. When combined, they can create any program:
+ variables - where data is stored data types - how to tell what&amp;rsquo;s a number or what&amp;rsquo;s text functions - how one can organize commands conditions - how to make yes/no decisions loops - how to repeat behavior  Every concept, feature, technology, or best practice beyond these basic building blocks were invented to help mere humans manage the complexity of larger programs.</description>
+        
+        <dc:creator>PEREZRE</dc:creator>
+        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
