@@ -29,7 +29,11 @@
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 26 Apr 2020 17:31:00 +0100</atom:modified>
         <guid>https://perezre.de/en/posts/tuts/java/</guid>
-        <description>Java - Fundamentals Introduction to Java Java Basics Operators I Operators II Tip I Tip II Tip III Default Methods Iteration Memory Object-Oriented Programming Paradigm Modifiers Class Dependency I Class Dependency II Exceptions I Exceptions II Patterns Tips IV Class Interface Tips The abstract keyword Immutability Serialization Tips V Annotations I Annotations II Annotations III Java - Data Management Arrays Byte Operations I File Management Numbers I Numbers II Strings I Strings II Strings III Tips I Wildcards in Generic Code Writing Generic Code Buffered Streams Data Structures Implementations File &amp;amp; System Manipulation I File &amp;amp; System Manipulation II Tips II Useful Tools I Useful Tools II File &amp;amp; System Manipulation III Java - Testing Testing I Testing II Java Threading Threading Deadlocks Synchronization I Synchronization II Deadlocks </description>
+        <description>Java - Fundamentals Introduction to Java Java is a programming language that follows the Object-oriented programming paradigm (OOP)
+It was first released in 1995 by Sun Microsystems, and has since grown to be one of the most used programming languages.
+The fact that it&amp;rsquo;s still one of the most-used languages over 25 years later shows how durable it is.
+Java is a secure, and portable language.
+Why Learn Java? Reasons to learn Java:</description>
         
         <dc:creator>PEREZRE</dc:creator>
         <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>

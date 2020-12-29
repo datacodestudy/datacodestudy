@@ -29,7 +29,12 @@
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 30 Aug 2020 17:26:36 +0100</atom:modified>
         <guid>https://perezre.de/en/posts/tuts/sql/</guid>
-        <description>SQL - Quering Data What is SQL? Using SELECT Building Queries Special Operators Aggregate Queries JOINs Database Clients SQL - Manipulating Data Introduction Insert Update Delete SQL - Defining Data Create Data Types Alter Indices Storing BLOBs Storing JSON </description>
+        <description>SQL - Quering Data What is SQL? What is SQL? SQL stands for Structured Query Language.
+It&amp;rsquo;s a query language - a type of language that lets one interact with a database.
+One use queries to do so.
+Example:
+1  SELECT * FROM users;   The query above return all the rows and columns from the users table.
+Why Learn SQL? Many argue that SQL is the most useful technical skill to learn in general.</description>
         
         <dc:creator>PEREZRE</dc:creator>
         <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>

@@ -1718,7 +1718,7 @@
 <div class="single__infos">
   <time class="single__info" title="Written At">📅&nbsp;Apr 26, 2020 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;1&nbsp;min read </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;3&nbsp;min read </span>
   
   <span class="single__info">
      &middot; 👀<span id="busuanzi_value_page_pv">...</span> views
@@ -1740,7 +1740,86 @@
       
       <h1 id="java---fundamentals">Java - Fundamentals</h1>
 <h2 id="introduction-to-java">Introduction to Java</h2>
-<h2 id="java-basics">Java Basics</h2>
+<p>Java is a programming language that follows the <em>Object-oriented programming</em> paradigm (OOP)</p>
+<p>It was first released in 1995 by Sun Microsystems, and has since grown to be one of the most used programming languages.</p>
+<p>The fact that it&rsquo;s still one of the most-used languages over 25 years later shows how durable it is.</p>
+<p>Java is a <strong>secure, and portable language</strong>.</p>
+<h3 id="why-learn-java">Why Learn Java?</h3>
+<p>Reasons to learn Java:</p>
+<ol>
+<li>It&rsquo;s one of the most used programming language in the world</li>
+<li>The <strong>basic concepts are relatively easy to understand.</strong></li>
+<li>It&rsquo;s <strong>statically typed</strong>, meaning that the <strong>code can&rsquo;t be beuild before solving the errors</strong>. Even though the sticker environment doesen&rsquo;t necessarily mean a better one, it allows developers to catch bugs early on.</li>
+<li>Once one create the program, one can run it on any machine. This principle is called &ldquo;<strong>write once, run anywhere</strong>&rdquo; (WORA). More in the insight.</li>
+<li>It has continued support, with the roadmap being available publicly.</li>
+</ol>
+<p>There are many more reasons one should learn Java. The only downside is, as with all other skills, that <em>it might take some time</em></p>
+<h3 id="java-virtual-machine">Java Virtual Machine</h3>
+<p>Once a Java application is created one can run it on any system. This is thanks to the Java Virtual Machine.</p>
+<p>First, let&rsquo;s take a look at how one computer processes information. Because it is an electronic device, the language that it speaks is electricity. Information is received in binary numbers.</p>
+<p>Using a sequence of 8 binary numbers, one can create text. For example, the letter <code>A</code> is <code>01000001</code>.</p>
+<p>What does this have to do with Java? The process is the following:</p>
+<ol>
+<li>The code is compiled to binary numbers.</li>
+<li>The new intermediary code is fied to the Java Virtual Machine (JVM)</li>
+<li>The JVM then proceeds to identify the operating system and convert the intermediary code to native code</li>
+</ol>
+<h3 id="hello-java">Hello Java!</h3>
+<p>How to build the first app.</p>
+<p>There are a couple of choices when it comes to where to write Java code simple text editors (Atom, Sublime, Emacs, Vim) or IDEs (IntelliJ, Eclipse). This one can download alff of them for free.</p>
+<p>Probably the most used first code snippet for any language is the <code>Hello world</code> one.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-Java" data-lang="Java"><span class="c1">// HelloJava.java
+</span><span class="c1"></span>
+<span class="kd">public</span> <span class="kd">class</span> <span class="nc">HelloJava</span><span class="o">{</span>
+    <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
+        <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">&#34;Hello Java!&#34;</span><span class="o">);</span>
+    <span class="o">}</span>
+<span class="o">}</span>
+<span class="c1">// Hello Java!s
+</span></code></pre></td></tr></table>
+</div>
+</div><h3 id="compiling-and-running-java-code">Compiling and Running Java Code</h3>
+<p>Before the <em>Java Virtual Machine</em> can do its part and run the code, a compiler is needed to get the bytecode understandable by the JVM.</p>
+<p>This process is done by an <em>Integrated Development Environment</em> (IDE) automatically. If one is not using and IDE, both the compilation and interpretation can be run manually.</p>
+<p>In both cases, a Java compiler and the JVM have to be installed on the computer. One can get them by installing the <em>Java Development Kit</em> (JDK).</p>
+<p>To run the <code>HelloJava.java</code> example:</p>
+<ol>
+<li>Compile it to bytecode</li>
+</ol>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-Java" data-lang="Java"><span class="n">javac</span> <span class="n">HelloWorld</span><span class="o">.</span><span class="na">java</span>
+</code></pre></td></tr></table>
+</div>
+</div><ol start="2">
+<li>Run the resulting bytecode</li>
+</ol>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-Java" data-lang="Java"><span class="n">java</span> <span class="n">HelloWorld</span>
+<span class="n">Hello</span> <span class="n">World</span><span class="o">!</span>
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="java-basics">Java Basics</h2>
 <h2 id="operators-i">Operators I</h2>
 <h2 id="operators-ii">Operators II</h2>
 <h2 id="tip-i">Tip I</h2>
@@ -2484,7 +2563,14 @@ document.addEventListener('DOMContentLoaded', function () {
   <div class="toc " data-dir="ltr" data-folding="false" data-ani="true">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#introduction-to-java">Introduction to Java</a></li>
+    <li><a href="#introduction-to-java">Introduction to Java</a>
+      <ul>
+        <li><a href="#why-learn-java">Why Learn Java?</a></li>
+        <li><a href="#java-virtual-machine">Java Virtual Machine</a></li>
+        <li><a href="#hello-java">Hello Java!</a></li>
+        <li><a href="#compiling-and-running-java-code">Compiling and Running Java Code</a></li>
+      </ul>
+    </li>
     <li><a href="#java-basics">Java Basics</a></li>
     <li><a href="#operators-i">Operators I</a></li>
     <li><a href="#operators-ii">Operators II</a></li>
