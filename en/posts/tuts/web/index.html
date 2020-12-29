@@ -1718,7 +1718,7 @@
 <div class="single__infos">
   <time class="single__info" title="Written At">📅&nbsp;Sep 27, 2020 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;1&nbsp;min read </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;4&nbsp;min read </span>
   
   <span class="single__info">
      &middot; 👀<span id="busuanzi_value_page_pv">...</span> views
@@ -1742,7 +1742,98 @@
 <h2 id="web-introduction">Web Introduction</h2>
 <h3 id="htmlcss-introduction">HTML/CSS Introduction</h3>
 <p><strong>CSS</strong> and <strong>HTML</strong> are the core languages used for creating web pages and web-based applications. <strong>HTML</strong> was invnted in 1989, while <strong>CSS</strong> was invented in 1996.</p>
-<p>HTML stand for <strong>HyperText Markup Language</strong> is a markup language for creating the structure and content of a webpage</p>
+<p>HTML stand for <strong>HyperText Markup Language</strong> is a markup language for creating the structure and content of a webpage using text, images, links, and containers.</p>
+<p>Meanwhile CSS, or <strong>Cascading Style Sheets</strong>, is used to modify the design and display of those <strong>HTML</strong> elements.</p>
+<p><strong>HTML</strong> is made up of content between <code>&lt;tags&gt;</code>, whereas <strong>CSS</strong> is made of selectors followed by a (declaration block).</p>
+<p>When creating a website, all of the unique HTML and CSS files for the same website are usually located inside a folder like so:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-HTML" data-lang="HTML">/website-folder
+    /html_files
+        main.html
+        contact.html
+    /css_files
+        main.css
+        contact.css
+</code></pre></td></tr></table>
+</div>
+</div><h3 id="html-defined">HTML Defined</h3>
+<p><strong>HTML</strong>, or <strong>Hypertext Markup Language</strong>, is an exxential building block of every web page.</p>
+<p><strong>HTML</strong>&rsquo;s primary purpose is to list the content used in the web page. HTML will display text, labels, lists, insert photos and other media, create hyperlinks, buttons, and containers. This is all done with appropriate <strong>HTML</strong> elements.</p>
+<p>Additionally, each <strong>HTML</strong> element can be used to separate content into sections. You can also nest <strong>HTML</strong> elements with one another for better control over the page layouts and content.</p>
+<p>However, <strong>HTML</strong> is not good for creating animations, managing responsive layouts, and other similar interactions within the content.</p>
+<h3 id="css-defined">CSS Defined</h3>
+<p><code>CSS</code> or <strong>Cascading Style Sheets</strong> is a <code>stylesheet</code> language used to  describe the presentation of an HTML, XML, or XHTML document. It&rsquo;s used to provide styling for text, images, &amp; links.</p>
+<p>In short, CSS is used to create responsive layouts, animations, styling text, and positioning containers. By applyiing CSS, you add the look and feel that you&rsquo;d like to your websites.</p>
+<h3 id="htmlcss-code">HTML/CSS Code</h3>
+<p><strong>CSS</strong> and <strong>HTML</strong> are the core languages used for creating web panges and web-based applications.</p>
+<p><strong>HTML</strong> creates theh structure and content of a webpage with text, image, links, and containers, while <strong>CSS</strong> modifies the design and display of those items in the HTML pages.</p>
+<p><strong>HTML</strong> is made up of content between tags: <code>&lt;tag&gt;Content&lt;/tag&gt;</code>.</p>
+<p><strong>CSS</strong> is made of selectors folllowed by a declaration block: <code>selector {declaration block}</code>.</p>
+<p>Example:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-HTML" data-lang="HTML"><span class="p">&lt;</span><span class="nt">h2</span><span class="p">&gt;</span>
+    Heading
+<span class="p">&lt;/</span><span class="nt">h2</span><span class="p">&gt;</span>
+<span class="p">&lt;</span><span class="nt">p</span><span class="p">&gt;</span>
+    Paragraph
+<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>Example:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-CSS" data-lang="CSS"><span class="nt">p</span> <span class="p">{</span> <span class="k">color</span><span class="p">:</span> <span class="kc">red</span><span class="p">;</span> <span class="p">}</span>
+<span class="nt">h2</span> <span class="p">{</span> <span class="k">font-size</span><span class="p">:</span> <span class="mi">24</span><span class="kt">px</span><span class="p">;</span> <span class="p">}</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>In the <strong>HTML</strong> example above, we create a heading and paragraph elements.</p>
+<p>In the <strong>CSS</strong> example above, we set the <strong>HTML</strong> <code>&lt;p&gt;</code> elements content to the color <code>red</code>, and the font size of the <code>&lt;h2&gt;</code> elements content to 24 pixels.</p>
+<h3 id="htmlcss-in-the-browser">HTML/CSS in the Browser</h3>
+<p><strong>HTML</strong> and <strong>CSS</strong> are languages used by browsers to present information to the users.</p>
+<p>An <strong>HTML</strong>  web pages will display text, images, links, and containers, but has little control over how that content appears.</p>
+<p>A <strong>CSS</strong> document will provide the rules for how the text, images, links, and containers should appear - whether it&rsquo;s setting text to bold or italic, setting width, height, and position for an image or container. If a <code>.css</code> file is opend in browser, the browser would just display the <strong>CSS</strong> code exactly as it is written in a code editor:</p>
+<p>Let&rsquo;s say we have 2 files:</p>
+<p>HTML file:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-HTML" data-lang="HTML"><span class="p">&lt;</span><span class="nt">p</span><span class="p">&gt;</span>
+    Paragraph
+<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>CSS file:</p>
+<pre><code>p { color: green; }
+</code></pre><p>Loading only the <strong>HTML</strong> file gives the paragraph mentioned above.</p>
+<p>Loading both files gives the paragraph mentioned above and colors it gree.</p>
+<p>However, loading just the <strong>CSS</strong> file will only show the text <code>p { color: green; }</code></p>
 <h2 id="html-basic">HTML Basic</h2>
 <h2 id="html-structure">HTML Structure</h2>
 <h2 id="core-html-elements">Core HTML Elements</h2>
@@ -2489,6 +2580,10 @@ document.addEventListener('DOMContentLoaded', function () {
     <li><a href="#web-introduction">Web Introduction</a>
       <ul>
         <li><a href="#htmlcss-introduction">HTML/CSS Introduction</a></li>
+        <li><a href="#html-defined">HTML Defined</a></li>
+        <li><a href="#css-defined">CSS Defined</a></li>
+        <li><a href="#htmlcss-code">HTML/CSS Code</a></li>
+        <li><a href="#htmlcss-in-the-browser">HTML/CSS in the Browser</a></li>
       </ul>
     </li>
     <li><a href="#html-basic">HTML Basic</a></li>

@@ -198,8 +198,8 @@ Examples for some Lead Generation are
         <atom:modified>Sun, 27 Sep 2020 16:26:42 +0100</atom:modified>
         <guid>https://perezre.de/en/posts/tuts/web/</guid>
         <description>Web - HTML Web Introduction HTML/CSS Introduction CSS and HTML are the core languages used for creating web pages and web-based applications. HTML was invnted in 1989, while CSS was invented in 1996.
-HTML stand for HyperText Markup Language is a markup language for creating the structure and content of a webpage
-HTML Basic HTML Structure Core HTML Elements Web Page Structure Advanced Images Links I Links II Lists Media Forms Advanced Input Controls Tables Meta Elements I Mete Elements II Sectioning Elements Formating HTML Elements Meter &amp;amp; Progress Formatting Text Elements I Formatting Text Elements II Advanced Text Input Advanced Button Attributes Interface Form Attributes Global Attributes Semantic Sections Citation Elements Computer Code Best Practices HTML Entities HTML Versions Styling Introduction to CSS CSS Basics The Box Model Positioning Dimensions &amp;amp; Box Sizing Practical CSS Typography how-to&amp;rsquo;s Centring Recipes Colors Tips Positioning Tips Styling I Styling II Styling III Pseudo Classes I Pseude Classes II Pseudo Elements Flexbox Features Recipes Responsive Design Tips Sass I Sass II Sass III Animations CSS Animation </description>
+HTML stand for HyperText Markup Language is a markup language for creating the structure and content of a webpage using text, images, links, and containers.
+Meanwhile CSS, or Cascading Style Sheets, is used to modify the design and display of those HTML elements.</description>
         
         <dc:creator>PEREZRE</dc:creator>
         <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -522,7 +522,9 @@ For example, here&amp;rsquo;s how one might check whether a number is greater th
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 10 May 2020 16:36:18 +0100</atom:modified>
         <guid>https://perezre.de/en/posts/tuts/javascript/</guid>
-        <description>JavaScript - Core Introduction JavaScript Types Flow Control Functions History &amp;amp; Obscura Arrays Objects Types II Strings I Strings II Numbers Array Methods Funtions II Scope Debugging in JavaScript Functions III Numbers Recipes JavaScript Depths Data Recipes JavaScript - ECMAscript Intro to ECMAScript Function Improvements New Numericals Array Updates Destructuring String Upgrades Spread, Map, Set and Math String Flexibility Classes &amp;amp; Modules Promises Async Tips Symbol Iterators &amp;amp; Generators Generators &amp;amp; Proxy JavaScript - Browser APIs Bowser APIs The Document Object Navigation Toolbox I Measuring Performance Reading and Writing Toolbox II User Interaction JavaScript - NodeJS Intro to Node.</description>
+        <description>JavaScript - Core Introduction JavaScript Why Learn JavaScript? JavaScript was originally developed to add functionality to web pages but it&amp;rsquo;s now used for much more!
+Some reason to start with JavaScript:
+ JavaScript runs on much any platform from web pages, to server backends and even hardware There are some great build and deployment tools and frameworks written in JavaScript that are useful in many applications It&amp;rsquo;s great introduction to functional programming concepts All one need to write JavaScript is a simple text editor High demand for JavaScript developers JavaScript is easy to learn.</description>
         
         <dc:creator>PEREZRE</dc:creator>
         <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>

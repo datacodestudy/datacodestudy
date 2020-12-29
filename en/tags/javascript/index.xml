@@ -29,7 +29,9 @@
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 10 May 2020 16:36:18 +0100</atom:modified>
         <guid>https://perezre.de/en/posts/tuts/javascript/</guid>
-        <description>JavaScript - Core Introduction JavaScript Types Flow Control Functions History &amp;amp; Obscura Arrays Objects Types II Strings I Strings II Numbers Array Methods Funtions II Scope Debugging in JavaScript Functions III Numbers Recipes JavaScript Depths Data Recipes JavaScript - ECMAscript Intro to ECMAScript Function Improvements New Numericals Array Updates Destructuring String Upgrades Spread, Map, Set and Math String Flexibility Classes &amp;amp; Modules Promises Async Tips Symbol Iterators &amp;amp; Generators Generators &amp;amp; Proxy JavaScript - Browser APIs Bowser APIs The Document Object Navigation Toolbox I Measuring Performance Reading and Writing Toolbox II User Interaction JavaScript - NodeJS Intro to Node.</description>
+        <description>JavaScript - Core Introduction JavaScript Why Learn JavaScript? JavaScript was originally developed to add functionality to web pages but it&amp;rsquo;s now used for much more!
+Some reason to start with JavaScript:
+ JavaScript runs on much any platform from web pages, to server backends and even hardware There are some great build and deployment tools and frameworks written in JavaScript that are useful in many applications It&amp;rsquo;s great introduction to functional programming concepts All one need to write JavaScript is a simple text editor High demand for JavaScript developers JavaScript is easy to learn.</description>
         
         <dc:creator>PEREZRE</dc:creator>
         <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>

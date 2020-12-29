@@ -30,8 +30,8 @@
         <atom:modified>Sun, 27 Sep 2020 16:26:42 +0100</atom:modified>
         <guid>https://perezre.de/en/posts/tuts/web/</guid>
         <description>Web - HTML Web Introduction HTML/CSS Introduction CSS and HTML are the core languages used for creating web pages and web-based applications. HTML was invnted in 1989, while CSS was invented in 1996.
-HTML stand for HyperText Markup Language is a markup language for creating the structure and content of a webpage
-HTML Basic HTML Structure Core HTML Elements Web Page Structure Advanced Images Links I Links II Lists Media Forms Advanced Input Controls Tables Meta Elements I Mete Elements II Sectioning Elements Formating HTML Elements Meter &amp;amp; Progress Formatting Text Elements I Formatting Text Elements II Advanced Text Input Advanced Button Attributes Interface Form Attributes Global Attributes Semantic Sections Citation Elements Computer Code Best Practices HTML Entities HTML Versions Styling Introduction to CSS CSS Basics The Box Model Positioning Dimensions &amp;amp; Box Sizing Practical CSS Typography how-to&amp;rsquo;s Centring Recipes Colors Tips Positioning Tips Styling I Styling II Styling III Pseudo Classes I Pseude Classes II Pseudo Elements Flexbox Features Recipes Responsive Design Tips Sass I Sass II Sass III Animations CSS Animation </description>
+HTML stand for HyperText Markup Language is a markup language for creating the structure and content of a webpage using text, images, links, and containers.
+Meanwhile CSS, or Cascading Style Sheets, is used to modify the design and display of those HTML elements.</description>
         
         <dc:creator>PEREZRE</dc:creator>
         <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>

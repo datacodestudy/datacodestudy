@@ -1718,7 +1718,7 @@
 <div class="single__infos">
   <time class="single__info" title="Written At">📅&nbsp;May 10, 2020 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;1&nbsp;min read </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;5&nbsp;min read </span>
   
   <span class="single__info">
      &middot; 👀<span id="busuanzi_value_page_pv">...</span> views
@@ -1740,6 +1740,201 @@
       
       <h1 id="javascript---core">JavaScript - Core</h1>
 <h2 id="introduction-javascript">Introduction JavaScript</h2>
+<h3 id="why-learn-javascript">Why Learn JavaScript?</h3>
+<p>JavaScript was originally developed to add functionality to web pages but it&rsquo;s now used for much more!</p>
+<p>Some reason to start with JavaScript:</p>
+<ul>
+<li>JavaScript runs on much <strong>any platform</strong> from web pages, to server backends and even hardware</li>
+<li>There are some great <strong>build and deployment tools</strong> and frameworks written in JavaScript that are useful in many applications</li>
+<li>It&rsquo;s great introduction to <strong>functional programming</strong> concepts</li>
+<li>All one need to write JavaScript is a <strong>simple text editor</strong></li>
+<li><strong>High demand</strong> for JavaScript developers</li>
+<li>JavaScript is easy to learn. Beware - it&rsquo;s <strong>hard to master!</strong></li>
+</ul>
+<h3 id="java-script-basics---part-1">Java Script Basics - Part 1</h3>
+<p>Like most programming languages, JavaScript has a number of syntax rules that it must adhere to.</p>
+<p><strong>Variables</strong></p>
+<p>Variables are the essential building blocks of programs. They are used to store a value and are given a name.</p>
+<p>Declaring a variable in JavaScript can be done in 3 ways.</p>
+<p>The first is using the <code>let</code> keyword:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-JavaScript" data-lang="JavaScript"><span class="kd">let</span> <span class="nx">firstName</span> <span class="o">=</span> <span class="s2">&#34;Joe&#34;</span><span class="p">;</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>Which allows also to change what the variable points to, if needed:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-JavaScript" data-lang="JavaScript"><span class="kd">let</span> <span class="nx">firstName</span> <span class="o">=</span> <span class="s2">&#34;Joe&#34;</span><span class="p">;</span>
+<span class="nx">firstName</span> <span class="o">=</span> <span class="s2">&#34;Changed&#34;</span><span class="p">;</span> <span class="c1">// works
+</span></code></pre></td></tr></table>
+</div>
+</div><p>One can also declare a variable using <code>const</code>, but in this cas one cannot change what it points to:</p>
+<pre><code>const firstName = &quot;Joe&quot;;
+firstName = &quot;Changed&quot;; // Error
+</code></pre><p>The oldest way of declaring a variable in JavaScript is using <code>var</code>:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-JavaScript" data-lang="JavaScript"><span class="kd">var</span> <span class="nx">firstName</span> <span class="o">=</span> <span class="s2">&#34;Joe&#34;</span><span class="p">;</span>
+<span class="nx">firstName</span> <span class="o">=</span> <span class="s2">&#34;Changed&#34;</span><span class="p">;</span> <span class="c1">// works
+</span></code></pre></td></tr></table>
+</div>
+</div><p>More to come about the differences between <code>let</code>, <code>const</code> and <code>var</code>.</p>
+<p><strong>Semicolon</strong></p>
+<p>Statements in JavaScript end in a <code>;</code>. Based on the ECMAScript rules however, adding a <code>;</code> isn&rsquo;t actually required (but common practice):</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-JavaScript" data-lang="JavaScript"><span class="kd">let</span> <span class="nx">firstName</span> <span class="o">=</span> <span class="s2">&#34;Joe&#34;</span><span class="p">;</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>Omitting a semicolon in certain situations can cause problems. JavaScript has a feature called Automatic Semicolon Insertion (ASI) which means that, if one omit a semicolon, JavaScript will automatically add it where it thinks it should go.</p>
+<p>This can lead to unexpected results. Thus, it&rsquo;s usually recommended to insert the <code>;</code> manually, or use a tool such as Prettier.</p>
+<h3 id="javascript-basics---part-2">JavaScript Basics - Part 2</h3>
+<p>Some more rules.</p>
+<p><strong>Case Sensitivity</strong></p>
+<p>Everything in JavaScript is case sensitive.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-JavaScript" data-lang="JavaScript"><span class="kd">let</span> <span class="nx">password</span><span class="p">;</span>
+<span class="c1">// not the same as
+</span><span class="c1"></span><span class="kd">let</span> <span class="nx">pasSword</span><span class="p">;</span>
+<span class="c1">// or
+</span><span class="c1"></span><span class="kd">let</span> <span class="nx">PASSWORD</span><span class="p">;</span>
+</code></pre></td></tr></table>
+</div>
+</div><p><strong>Keywords</strong></p>
+<p>Like most languages, there are a number of reserved words in JavaScript that one cannot use for functions and variables e.g.</p>
+<ul>
+<li>var</li>
+<li>let</li>
+<li>new</li>
+<li>&hellip;</li>
+</ul>
+<p><strong>Identifier naming rules</strong></p>
+<p>When naming any function, property or variable, the first character must be a letter, $ sign or underscore.</p>
+<p>After the first character, one is free to use numbers, letters, dollar sign or underscores.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-JavaScript" data-lang="JavaScript"><span class="kd">let</span> <span class="nx">name</span> <span class="o">=</span> <span class="s2">&#34;Joe&#34;</span><span class="p">;</span> <span class="c1">// works
+</span><span class="c1"></span><span class="kd">let</span> <span class="nx">$taxRate</span> <span class="o">=</span> <span class="mf">2.41</span><span class="p">;</span> <span class="c1">// works
+</span><span class="c1"></span><span class="kd">let</span> <span class="nx">_id</span> <span class="o">=</span> <span class="mi">42</span><span class="p">;</span> <span class="c1">// works
+</span><span class="c1"></span><span class="kd">let</span> <span class="mi">2</span><span class="nx">Company</span> <span class="o">=</span> <span class="s2">&#34;Joe&#34;</span><span class="p">;</span> <span class="c1">// error
+</span></code></pre></td></tr></table>
+</div>
+</div><p><strong>Comments</strong></p>
+<p>Comments can be created in 2 ways in JavaScript.</p>
+<p>As a single line comment:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-JavaScript" data-lang="JavaScript"><span class="c1">// Single line comment
+</span></code></pre></td></tr></table>
+</div>
+</div><p>Add sinle line comments to the same line of other code:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-JavaScript" data-lang="JavaScript"><span class="kd">let</span> <span class="nx">company</span> <span class="o">=</span> <span class="s2">&#34;Company&#34;</span><span class="p">;</span> <span class="c1">// define company
+</span></code></pre></td></tr></table>
+</div>
+</div><p>Or if one have more text one can use a block comment:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-JavaScript" data-lang="JavaScript"><span class="cm">/*
+</span><span class="cm">Block comment
+</span><span class="cm">*/</span>
+</code></pre></td></tr></table>
+</div>
+</div><h3 id="console-in-javascript">console.* in JavaScript</h3>
+<p>The <code>console.*</code> methods output information to a cosole.</p>
+<p>For example, <code>console.log</code> can print out a message:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-JavaScript" data-lang="JavaScript"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s2">&#34;This is a message!&#34;</span><span class="p">);</span> <span class="c1">// This is a message
+</span></code></pre></td></tr></table>
+</div>
+</div><p>More commonly it is used to show the current value of a variable when debugging. In this example we are logging the value of a variable called username:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-JavaScript" data-lang="JavaScript"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s2">&#34;Username: &#34;</span> <span class="o">+</span> <span class="nx">username</span><span class="p">);</span> <span class="c1">// Username: myname
+</span></code></pre></td></tr></table>
+</div>
+</div><p>A few other useful console methods include:</p>
+<p>Sending a warning to the console.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-JavaScript" data-lang="JavaScript"><span class="nx">console</span><span class="p">.</span><span class="nx">warn</span><span class="p">(</span><span class="s2">&#34;Source not changed&#34;</span><span class="p">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>Sending an error message to the console.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-JavaScript" data-lang="JavaScript"><span class="nx">console</span><span class="p">.</span><span class="nx">error</span><span class="p">(</span><span class="s2">&#34;Not found!&#34;</span><span class="p">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>Viewing the current stack trace.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-JavaScript" data-lang="JavaScript"><span class="nx">console</span><span class="p">.</span><span class="nx">trace</span><span class="p">()</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>In JavaScript, there is no specification for how <code>console.*</code> methods behave. Each environment adds its own methods and behavior.</p>
+<p>When creating a web application, the use of <code>console.*</code> is critical for quickly debugging problems. Whenever one need more information on a variable or would like to know where one code stops working, one should apply a console statement at the area in question. <code>console.*</code> statements can be viewed in Google Chrome by pressing <code>Ctrl+Shift+i</code>, and in Firefox by pressing <code>Ctrl+Shift+k</code>.</p>
+<p>In addition to this, <code>console.*</code> can be used to pipe information to <code>stdout</code> in NodeJS.</p>
+<blockquote>
+<p>It is consided best practice to not include any <code>console.*</code> methods in production code.</p>
+</blockquote>
 <h2 id="types">Types</h2>
 <h2 id="flow-control">Flow Control</h2>
 <h2 id="functions">Functions</h2>
@@ -2497,7 +2692,14 @@ document.addEventListener('DOMContentLoaded', function () {
   <div class="toc " data-dir="ltr" data-folding="false" data-ani="true">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#introduction-javascript">Introduction JavaScript</a></li>
+    <li><a href="#introduction-javascript">Introduction JavaScript</a>
+      <ul>
+        <li><a href="#why-learn-javascript">Why Learn JavaScript?</a></li>
+        <li><a href="#java-script-basics---part-1">Java Script Basics - Part 1</a></li>
+        <li><a href="#javascript-basics---part-2">JavaScript Basics - Part 2</a></li>
+        <li><a href="#console-in-javascript">console.* in JavaScript</a></li>
+      </ul>
+    </li>
     <li><a href="#types">Types</a></li>
     <li><a href="#flow-control">Flow Control</a></li>
     <li><a href="#functions">Functions</a></li>
