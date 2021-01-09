@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on Home</title>
-    <link>https://perezre.de/en/tags/index/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/index/</link>
     <description>Recent content in index on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>contact@perezre.de (PEREZRE)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://perezre.de/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,11 +23,11 @@
       
       <item>
         <title>Posts</title>
-        <link>https://perezre.de/en/posts/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/</link>
         <pubDate>Sat, 26 Dec 2020 15:36:46 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         
-        <guid>https://perezre.de/en/posts/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>
@@ -47,15 +47,15 @@
       
       <item>
         <title>Tutorials</title>
-        <link>https://perezre.de/en/posts/tuts/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/</link>
         <pubDate>Sun, 25 Oct 2020 18:43:13 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         
-        <guid>https://perezre.de/en/posts/tuts/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/</guid>
         <description></description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

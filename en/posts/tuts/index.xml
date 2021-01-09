@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tutorials on Home</title>
-    <link>https://perezre.de/en/posts/tuts/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/</link>
     <description>Recent content in Tutorials on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 25 Oct 2020 18:43:13 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/en/posts/tuts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/posts/tuts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>Zapier</title>
-        <link>https://perezre.de/en/posts/tuts/zapier/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/zapier/</link>
         <pubDate>Sun, 25 Oct 2020 18:43:13 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 25 Oct 2020 18:43:13 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/zapier/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/zapier/</guid>
         <description>Zapier - Introduction What is Zapier? First Zap Zaps I Zaps II Data Filtering Build-in Apps Task History </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -56,15 +56,15 @@
       
       <item>
         <title>Webflow</title>
-        <link>https://perezre.de/en/posts/tuts/webflow/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/webflow/</link>
         <pubDate>Sun, 11 Oct 2020 18:27:25 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 11 Oct 2020 18:27:25 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/webflow/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/webflow/</guid>
         <description>Webflow - Introduction What is Webflow? Basics of Web Templates Do It Yourself Intro Components Style Template Editing Layouts </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -88,17 +88,17 @@
       
       <item>
         <title>Web</title>
-        <link>https://perezre.de/en/posts/tuts/web/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/web/</link>
         <pubDate>Sun, 27 Sep 2020 16:26:42 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 27 Sep 2020 16:26:42 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/web/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/web/</guid>
         <description>Web - HTML Web Introduction HTML/CSS Introduction CSS and HTML are the core languages used for creating web pages and web-based applications. HTML was invnted in 1989, while CSS was invented in 1996.
 HTML stand for HyperText Markup Language is a markup language for creating the structure and content of a webpage using text, images, links, and containers.
 Meanwhile CSS, or Cascading Style Sheets, is used to modify the design and display of those HTML elements.</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -122,15 +122,15 @@ Meanwhile CSS, or Cascading Style Sheets, is used to modify the design and displ
       
       <item>
         <title>Typescript</title>
-        <link>https://perezre.de/en/posts/tuts/typescript/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/typescript/</link>
         <pubDate>Sun, 13 Sep 2020 18:29:22 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 13 Sep 2020 18:29:22 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/typescript/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/typescript/</guid>
         <description>TypeSript - Introduction Intro to TypeScript Using Types Basic Types Classes &amp;amp; Interfaces </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -154,11 +154,11 @@ Meanwhile CSS, or Cascading Style Sheets, is used to modify the design and displ
       
       <item>
         <title>SQL</title>
-        <link>https://perezre.de/en/posts/tuts/sql/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/sql/</link>
         <pubDate>Sun, 30 Aug 2020 17:26:36 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 30 Aug 2020 17:26:36 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/sql/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/sql/</guid>
         <description>SQL - Quering Data What is SQL? What is SQL? SQL stands for Structured Query Language.
 It&amp;rsquo;s a query language - a type of language that lets one interact with a database.
 One use queries to do so.
@@ -167,7 +167,7 @@ Example:
 Why Learn SQL? Many argue that SQL is the most useful technical skill to learn in general.</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -191,15 +191,15 @@ Why Learn SQL? Many argue that SQL is the most useful technical skill to learn i
       
       <item>
         <title>Spreadsheets</title>
-        <link>https://perezre.de/en/posts/tuts/spreadsheets/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/spreadsheets/</link>
         <pubDate>Sun, 16 Aug 2020 16:05:02 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 16 Aug 2020 16:05:02 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/spreadsheets/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/spreadsheets/</guid>
         <description>Spreadsheet - Introduction Introduction Terminology &amp;amp; Basics Templates Data Types &amp;amp; Validation Filtering &amp;amp; Grouping Functions &amp;amp; Formulas Charts Spreadsheet - Intermediate Chart Types &amp;amp; Data Chart Customizations Importing Data Intro Pivot Tables Conditional Formatting Add-Ons Pivot Table Rules &amp;amp; Data Spreadsheet - Functions &amp;amp; Formulas Logical Functions Number Functions Text &amp;amp; Date Functions Parser Functions Math Functions Import Functions Error Checking Functions Google Functions Sparkline Function Comparison Operators &amp;amp; Functions Spreadsheet - Tips &amp;amp; Tricks Tips &amp;amp; Tricks I Tips &amp;amp; Tricks II Common Mistages Spreadsheet Shortcuts </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -223,18 +223,18 @@ Why Learn SQL? Many argue that SQL is the most useful technical skill to learn i
       
       <item>
         <title>Security</title>
-        <link>https://perezre.de/en/posts/tuts/security/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/security/</link>
         <pubDate>Sun, 02 Aug 2020 18:04:04 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 02 Aug 2020 18:04:04 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/security/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/security/</guid>
         <description>Security - Application Security Intro to AppSec What is AppSec? AppSec (short for Application security) is simply a set of measures taken to improve the security of an application.
 This is often done by finding, fixing, and preventing security culnerabilities.
 There have been many data breaches since the beginning of the internet, and they now represent the main reason for govermments creating data protection regulations.
 In 2019, Veracode reported that more than 80% of webapps have at least one security flaw.</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -258,15 +258,15 @@ In 2019, Veracode reported that more than 80% of webapps have at least one secur
       
       <item>
         <title>Regex</title>
-        <link>https://perezre.de/en/posts/tuts/regex/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/regex/</link>
         <pubDate>Sun, 19 Jul 2020 18:37:13 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 19 Jul 2020 18:37:13 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/regex/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/regex/</guid>
         <description>Regex - Introduction Intro Quantifiers and Wildcards Ranges, Groups and More! Email and Password Example More Practical Examples Even More Practical Examples Regex &amp;amp; JavaScript </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -290,15 +290,15 @@ In 2019, Veracode reported that more than 80% of webapps have at least one secur
       
       <item>
         <title>React</title>
-        <link>https://perezre.de/en/posts/tuts/react/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/react/</link>
         <pubDate>Sun, 05 Jul 2020 18:23:40 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 05 Jul 2020 18:23:40 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/react/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/react/</guid>
         <description>React - Introduction Intro to React Fundamentals I Fundamentals II Basic of React How to React Introduction to Hooks React - Intermediary Props validation Advanced Props Props III Hooks I Redux React - Tips Common Mistages Good to know Gotchas Redux Tips </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -322,18 +322,18 @@ In 2019, Veracode reported that more than 80% of webapps have at least one secur
       
       <item>
         <title>Python</title>
-        <link>https://perezre.de/en/posts/tuts/python/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/python/</link>
         <pubDate>Sun, 21 Jun 2020 16:14:24 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 21 Jun 2020 16:14:24 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/python/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/python/</guid>
         <description>Python - Core Meet Python Python Intro Python is a popular high-level programming language.
 That means it&amp;rsquo;s designed to be easy to read, using English keywords and simple syntax.
 For example, here&amp;rsquo;s how one might check whether a number is greater than another number:
 1 2 3 4 5 6  my_age = 23 legal_age = 21 if my_age &amp;gt;= legal_age: print(&amp;#34;You can have a beer!&amp;#34;) else: print(&amp;#34;Unlucky.&amp;#34;)   Python is also a general-purpose programming language.</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -357,15 +357,15 @@ For example, here&amp;rsquo;s how one might check whether a number is greater th
       
       <item>
         <title>MongoDB</title>
-        <link>https://perezre.de/en/posts/tuts/mongodb/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/mongodb/</link>
         <pubDate>Sun, 07 Jun 2020 18:39:34 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 07 Jun 2020 18:39:34 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/mongodb/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/mongodb/</guid>
         <description>MongoDB - Introduction Intro Databases Create &amp;amp; Read Documents Update &amp;amp; Delete Documents Query Operators Aggregation I Aggregation II Delete &amp;amp; Query Save, Project &amp;amp; Rename Arithmetic Aggregation I Arithmetic Aggregation II Aggregation III Aggregation IV Querying Arrays </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -389,15 +389,15 @@ For example, here&amp;rsquo;s how one might check whether a number is greater th
       
       <item>
         <title>Linux</title>
-        <link>https://perezre.de/en/posts/tuts/linux/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/linux/</link>
         <pubDate>Sun, 24 May 2020 18:07:53 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 24 May 2020 18:07:53 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/linux/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/linux/</guid>
         <description>Linux - User &amp;amp; File Management Introduction Environment Variables Manipulation Variables File Management File Permissions File Management Tips Shell Pipelines User Management User Permissions Terminal Power User Tips Conditions File Management Tips II Default Permissions Super User &amp;amp; Root Terminal History Pipeline Tools User Management Utilities Linux - Jobs &amp;amp; Processes, Data Manipulation Basics of Process Management File Streams Grep &amp;amp; Background Tasks Utilities Working with Files Data Manipulation Recipes Crontab Linux - System and Package management Basic Package Management Disk &amp;amp; Time Management System Monitoring I System Monitoring II System Monitoring III Debian System Recipes Linux - Networking &amp;amp; Security Basic of Linux Networking Making SSH Connections Maintaining your SSH Bandwith Monitoring Tools Firewall Configuration and Maintenance Connecting to Remote Hosts with SSH Webscraping Networkiing Tips Security </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -421,17 +421,17 @@ For example, here&amp;rsquo;s how one might check whether a number is greater th
       
       <item>
         <title>JavaScript</title>
-        <link>https://perezre.de/en/posts/tuts/javascript/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/javascript/</link>
         <pubDate>Sun, 10 May 2020 16:36:18 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 10 May 2020 16:36:18 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/javascript/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/javascript/</guid>
         <description>JavaScript - Core Introduction JavaScript Why Learn JavaScript? JavaScript was originally developed to add functionality to web pages but it&amp;rsquo;s now used for much more!
 Some reason to start with JavaScript:
  JavaScript runs on much any platform from web pages, to server backends and even hardware There are some great build and deployment tools and frameworks written in JavaScript that are useful in many applications It&amp;rsquo;s great introduction to functional programming concepts All one need to write JavaScript is a simple text editor High demand for JavaScript developers JavaScript is easy to learn.</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -455,11 +455,11 @@ Some reason to start with JavaScript:
       
       <item>
         <title>Java</title>
-        <link>https://perezre.de/en/posts/tuts/java/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/java/</link>
         <pubDate>Sun, 26 Apr 2020 17:31:00 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 26 Apr 2020 17:31:00 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/java/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/java/</guid>
         <description>Java - Fundamentals Introduction to Java Java is a programming language that follows the Object-oriented programming paradigm (OOP)
 It was first released in 1995 by Sun Microsystems, and has since grown to be one of the most used programming languages.
 The fact that it&amp;rsquo;s still one of the most-used languages over 25 years later shows how durable it is.
@@ -467,7 +467,7 @@ Java is a secure, and portable language.
 Why Learn Java? Reasons to learn Java:</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -491,18 +491,18 @@ Why Learn Java? Reasons to learn Java:</description>
       
       <item>
         <title>Go</title>
-        <link>https://perezre.de/en/posts/tuts/go/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/go/</link>
         <pubDate>Sun, 12 Apr 2020 18:01:08 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 12 Apr 2020 18:01:08 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/go/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/go/</guid>
         <description>Go - Introduction Introduction Meet Go Go is a statically typed, fast compiled, and open-source language designed by Google.
  Common name for Go is Golang because of the website of golang.org. the domain name go.org wasn&amp;rsquo;t available when the language was created.
  Golang was created because the developers at Google wanted to make a new language that supports modern multicore machines and large codebases.
 The design of Golang aims to have the readability and usability of JavaScript or Python while also having great performance with multiprocessing CPUs and networking.</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -526,15 +526,15 @@ The design of Golang aims to have the readability and usability of JavaScript or
       
       <item>
         <title>Docker</title>
-        <link>https://perezre.de/en/posts/tuts/docker/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/docker/</link>
         <pubDate>Sun, 29 Mar 2020 18:22:18 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 29 Mar 2020 18:22:18 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/docker/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/docker/</guid>
         <description>Docker - Fundamentals Overview Containers Images Storage Networking </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -558,11 +558,11 @@ The design of Golang aims to have the readability and usability of JavaScript or
       
       <item>
         <title>Data Analysis</title>
-        <link>https://perezre.de/en/posts/tuts/dataanalysis/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/dataanalysis/</link>
         <pubDate>Sun, 15 Mar 2020 17:57:25 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 15 Mar 2020 17:57:25 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/dataanalysis/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/dataanalysis/</guid>
         <description>Data Analysis - Core Intro What is Data Analysis? Data analysis is the method of discovering useful information from data.
 The process involves collecting, organizing, exploring and drawing conclusions from data.
  Broadly speaking, one can think of data analysis as translating numbers into meaningful words
@@ -570,7 +570,7 @@ The process involves collecting, organizing, exploring and drawing conclusions f
 Walmart uses data analysis to figure out what to stock.</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -594,15 +594,15 @@ Walmart uses data analysis to figure out what to stock.</description>
       
       <item>
         <title>Computer Science</title>
-        <link>https://perezre.de/en/posts/tuts/compsci/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/compsci/</link>
         <pubDate>Sun, 01 Mar 2020 18:17:04 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 01 Mar 2020 18:17:04 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/compsci/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/compsci/</guid>
         <description>Computer Science - Data Structures and Algorithms Intro to Data Structures Intro to Graphs Algorithms I Binary Search Tree Heap and Trie Tree Traversals Algorithms II Graph Algorithms MST Algorithms Computer Science - Networking Fundamentals I Fundamentals II Metrics Tools Intro to HTTP Requests and Responses HTTP Status Codes </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -626,18 +626,18 @@ Walmart uses data analysis to figure out what to stock.</description>
       
       <item>
         <title>Coding Intro</title>
-        <link>https://perezre.de/en/posts/tuts/codingintro/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/codingintro/</link>
         <pubDate>Sun, 16 Feb 2020 16:24:31 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 16 Feb 2020 16:24:31 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/codingintro/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/codingintro/</guid>
         <description>Coding Intro - Core Introduction Intro to Coding If one want to learn to code here one can get started.
 Here will be covered the core features everyone yould know before starting to program. Here will be emphasize key themes and tools that be useful.
 All programming languages have a handful of building blocks. When combined, they can create any program:
  variables - where data is stored data types - how to tell what&amp;rsquo;s a number or what&amp;rsquo;s text functions - how one can organize commands conditions - how to make yes/no decisions loops - how to repeat behavior  Every concept, feature, technology, or best practice beyond these basic building blocks were invented to help mere humans manage the complexity of larger programs.</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -661,15 +661,15 @@ All programming languages have a handful of building blocks. When combined, they
       
       <item>
         <title>Blockchain</title>
-        <link>https://perezre.de/en/posts/tuts/blockchain/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/blockchain/</link>
         <pubDate>Sun, 02 Feb 2020 18:31:04 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 02 Feb 2020 18:31:04 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/blockchain/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/blockchain/</guid>
         <description>Blockchain - Fundamentals Introduction The Blockchain The Bitcoin Blockchain Building the Ledger Mining Wallets Bitcoin Anonymity Altcoins Consesus Algorithms Forking Cryptoeconomics Ethereum I Solidity Ethereum II Ethereum on the Web </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -693,15 +693,15 @@ All programming languages have a handful of building blocks. When combined, they
       
       <item>
         <title>Airtable</title>
-        <link>https://perezre.de/en/posts/tuts/airtable/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/airtable/</link>
         <pubDate>Sun, 19 Jan 2020 18:45:16 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 19 Jan 2020 18:45:16 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/airtable/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/airtable/</guid>
         <description>Airtable - Introduction What&amp;rsquo;s Airtable Basics Templates Views Relationships </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -725,11 +725,11 @@ All programming languages have a handful of building blocks. When combined, they
       
       <item>
         <title>What is Git</title>
-        <link>https://perezre.de/en/posts/tuts/git/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/git/</link>
         <pubDate>Sun, 05 Jan 2020 19:06:46 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sat, 11 Jan 2020 19:06:46 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/git/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/git/</guid>
         <description>Git - Essentials What is Git? Git is standard of version control.
 It&amp;rsquo;s the most commercial (and open-source) projects ust to keep track versions of their products.
  It was developed by Linux Torvalds
@@ -737,7 +737,7 @@ It&amp;rsquo;s the most commercial (and open-source) projects ust to keep track 
  Get all previous changes from the central server. Edit the files and make sure they work. Send all the changes to the central server.  Now with Git, every developer can have their own copy of the project.</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

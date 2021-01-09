@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>airtable on Home</title>
-    <link>https://perezre.de/en/tags/airtable/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/airtable/</link>
     <description>Recent content in airtable on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 19 Jan 2020 18:45:16 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/en/tags/airtable/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/airtable/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>Airtable</title>
-        <link>https://perezre.de/en/posts/tuts/airtable/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/airtable/</link>
         <pubDate>Sun, 19 Jan 2020 18:45:16 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 19 Jan 2020 18:45:16 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/airtable/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/airtable/</guid>
         <description>Airtable - Introduction What&amp;rsquo;s Airtable Basics Templates Views Relationships </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

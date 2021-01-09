@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>go on Home</title>
-    <link>https://perezre.de/en/tags/go/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/go/</link>
     <description>Recent content in go on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 12 Apr 2020 18:01:08 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/en/tags/go/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/go/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,18 +24,18 @@
       
       <item>
         <title>Go</title>
-        <link>https://perezre.de/en/posts/tuts/go/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/go/</link>
         <pubDate>Sun, 12 Apr 2020 18:01:08 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 12 Apr 2020 18:01:08 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/go/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/go/</guid>
         <description>Go - Introduction Introduction Meet Go Go is a statically typed, fast compiled, and open-source language designed by Google.
  Common name for Go is Golang because of the website of golang.org. the domain name go.org wasn&amp;rsquo;t available when the language was created.
  Golang was created because the developers at Google wanted to make a new language that supports modern multicore machines and large codebases.
 The design of Golang aims to have the readability and usability of JavaScript or Python while also having great performance with multiprocessing CPUs and networking.</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

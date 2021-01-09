@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>data analysis on Home</title>
-    <link>https://perezre.de/en/tags/data-analysis/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/data-analysis/</link>
     <description>Recent content in data analysis on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 15 Mar 2020 17:57:25 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/en/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Data Analysis</title>
-        <link>https://perezre.de/en/posts/tuts/dataanalysis/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/dataanalysis/</link>
         <pubDate>Sun, 15 Mar 2020 17:57:25 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 15 Mar 2020 17:57:25 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/dataanalysis/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/dataanalysis/</guid>
         <description>Data Analysis - Core Intro What is Data Analysis? Data analysis is the method of discovering useful information from data.
 The process involves collecting, organizing, exploring and drawing conclusions from data.
  Broadly speaking, one can think of data analysis as translating numbers into meaningful words
@@ -36,7 +36,7 @@ The process involves collecting, organizing, exploring and drawing conclusions f
 Walmart uses data analysis to figure out what to stock.</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

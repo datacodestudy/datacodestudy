@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>security on Home</title>
-    <link>https://perezre.de/en/tags/security/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/security/</link>
     <description>Recent content in security on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 02 Aug 2020 18:04:04 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/en/tags/security/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/security/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,18 +24,18 @@
       
       <item>
         <title>Security</title>
-        <link>https://perezre.de/en/posts/tuts/security/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/security/</link>
         <pubDate>Sun, 02 Aug 2020 18:04:04 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 02 Aug 2020 18:04:04 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/security/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/security/</guid>
         <description>Security - Application Security Intro to AppSec What is AppSec? AppSec (short for Application security) is simply a set of measures taken to improve the security of an application.
 This is often done by finding, fixing, and preventing security culnerabilities.
 There have been many data breaches since the beginning of the internet, and they now represent the main reason for govermments creating data protection regulations.
 In 2019, Veracode reported that more than 80% of webapps have at least one security flaw.</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

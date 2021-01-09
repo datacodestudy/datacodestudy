@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Startseite</title>
-    <link>https://perezre.de/de/categories/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/de/categories/</link>
     <description>Recent content in Categories on Startseite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
@@ -15,7 +15,7 @@
     <webMaster>contact@perezre.de (PEREZRE)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://perezre.de/de/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/de/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     

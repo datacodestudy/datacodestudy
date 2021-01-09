@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>spreadsheet on Home</title>
-    <link>https://perezre.de/en/tags/spreadsheet/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/spreadsheet/</link>
     <description>Recent content in spreadsheet on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 16 Aug 2020 16:05:02 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/en/tags/spreadsheet/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/spreadsheet/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>Spreadsheets</title>
-        <link>https://perezre.de/en/posts/tuts/spreadsheets/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/spreadsheets/</link>
         <pubDate>Sun, 16 Aug 2020 16:05:02 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 16 Aug 2020 16:05:02 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/spreadsheets/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/spreadsheets/</guid>
         <description>Spreadsheet - Introduction Introduction Terminology &amp;amp; Basics Templates Data Types &amp;amp; Validation Filtering &amp;amp; Grouping Functions &amp;amp; Formulas Charts Spreadsheet - Intermediate Chart Types &amp;amp; Data Chart Customizations Importing Data Intro Pivot Tables Conditional Formatting Add-Ons Pivot Table Rules &amp;amp; Data Spreadsheet - Functions &amp;amp; Formulas Logical Functions Number Functions Text &amp;amp; Date Functions Parser Functions Math Functions Import Functions Error Checking Functions Google Functions Sparkline Function Comparison Operators &amp;amp; Functions Spreadsheet - Tips &amp;amp; Tricks Tips &amp;amp; Tricks I Tips &amp;amp; Tricks II Common Mistages Spreadsheet Shortcuts </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

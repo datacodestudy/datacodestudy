@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>mongodb on Home</title>
-    <link>https://perezre.de/en/tags/mongodb/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/mongodb/</link>
     <description>Recent content in mongodb on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 07 Jun 2020 18:39:34 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/en/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>MongoDB</title>
-        <link>https://perezre.de/en/posts/tuts/mongodb/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/mongodb/</link>
         <pubDate>Sun, 07 Jun 2020 18:39:34 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 07 Jun 2020 18:39:34 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/mongodb/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/mongodb/</guid>
         <description>MongoDB - Introduction Intro Databases Create &amp;amp; Read Documents Update &amp;amp; Delete Documents Query Operators Aggregation I Aggregation II Delete &amp;amp; Query Save, Project &amp;amp; Rename Arithmetic Aggregation I Arithmetic Aggregation II Aggregation III Aggregation IV Querying Arrays </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

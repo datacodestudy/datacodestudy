@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>zapier on Home</title>
-    <link>https://perezre.de/en/tags/zapier/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/zapier/</link>
     <description>Recent content in zapier on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 25 Oct 2020 18:43:13 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/en/tags/zapier/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/zapier/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>Zapier</title>
-        <link>https://perezre.de/en/posts/tuts/zapier/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/zapier/</link>
         <pubDate>Sun, 25 Oct 2020 18:43:13 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 25 Oct 2020 18:43:13 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/zapier/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/zapier/</guid>
         <description>Zapier - Introduction What is Zapier? First Zap Zaps I Zaps II Data Filtering Build-in Apps Task History </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

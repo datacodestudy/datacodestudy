@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>linux on Home</title>
-    <link>https://perezre.de/en/tags/linux/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/linux/</link>
     <description>Recent content in linux on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 24 May 2020 18:07:53 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/en/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>Linux</title>
-        <link>https://perezre.de/en/posts/tuts/linux/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/linux/</link>
         <pubDate>Sun, 24 May 2020 18:07:53 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 24 May 2020 18:07:53 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/linux/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/linux/</guid>
         <description>Linux - User &amp;amp; File Management Introduction Environment Variables Manipulation Variables File Management File Permissions File Management Tips Shell Pipelines User Management User Permissions Terminal Power User Tips Conditions File Management Tips II Default Permissions Super User &amp;amp; Root Terminal History Pipeline Tools User Management Utilities Linux - Jobs &amp;amp; Processes, Data Manipulation Basics of Process Management File Streams Grep &amp;amp; Background Tasks Utilities Working with Files Data Manipulation Recipes Crontab Linux - System and Package management Basic Package Management Disk &amp;amp; Time Management System Monitoring I System Monitoring II System Monitoring III Debian System Recipes Linux - Networking &amp;amp; Security Basic of Linux Networking Making SSH Connections Maintaining your SSH Bandwith Monitoring Tools Firewall Configuration and Maintenance Connecting to Remote Hosts with SSH Webscraping Networkiing Tips Security </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

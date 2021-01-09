@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on Startseite</title>
-    <link>https://perezre.de/de/posts/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/de/posts/</link>
     <description>Recent content in Posts on Startseite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 01 Nov 2020 16:30:02 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/de/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/de/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Requirements-Engineering und -Management</title>
-        <link>https://perezre.de/de/posts/remanagement/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/de/posts/remanagement/</link>
         <pubDate>Sun, 01 Nov 2020 16:30:02 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 01 Nov 2020 16:30:02 +0100</atom:modified>
-        <guid>https://perezre.de/de/posts/remanagement/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/de/posts/remanagement/</guid>
         <description>Teil 1 - Requirements-Engineering zum Erfolg bringen In medias RE Motivation für eine erfolgreiche Systemanalyse Requierements-Engineering ist eine Art Versicherung für Systementwicklungsprojekte
 Entwicklungsprojekte auf diese Versicherung verzichten sind folgende Beispiele:
  Toll Collect A2LL Denver-Koffer-Debakel Rückrufaktionen der Automobilhersteller  Ein konsequentes Requirements-Engineering hätte das eine oder andere Projekt sicherlich besser dastehen lassen.
@@ -36,7 +36,7 @@ Der Requirements-Engineer - Mittler zwischen Welten Requirements-Engineer werden
 Die fachlichen und methodischen Kompetenzen, nach IREB e.</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

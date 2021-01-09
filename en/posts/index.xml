@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on Home</title>
-    <link>https://perezre.de/en/posts/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/posts/</link>
     <description>Recent content in Posts on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 26 Dec 2020 15:36:46 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/en/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,18 +24,18 @@
       
       <item>
         <title>Extreme Programming and Scrum</title>
-        <link>https://perezre.de/en/posts/art351/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/art351/</link>
         <pubDate>Sat, 26 Dec 2020 15:36:46 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sat, 26 Dec 2020 15:36:46 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/art351/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/art351/</guid>
         <description>Instead of having one big release at the end of a long development cycle the idea of Extreme Programming tries to release often.
 The main advantages of small releases are the gain of experience. This show the accuracy of the team towards the project.
 Extreme Programming is promoting small releases through CI (continuous integration) and some other extreme programming practices.
 With small releases a team can deliver small working incement in few weeks.</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -63,11 +63,11 @@ With small releases a team can deliver small working incement in few weeks.</des
       
       <item>
         <title>Lead Generation and Demand Generation</title>
-        <link>https://perezre.de/en/posts/art350/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/art350/</link>
         <pubDate>Fri, 25 Dec 2020 17:32:25 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Fri, 25 Dec 2020 17:32:25 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/art350/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/art350/</guid>
         <description>What is Demand Generation? It is about creating brand awareness and attracting new useres to a business.
 For example there are
  Blog posts Social Media posts Podcasts YouTube Videos  What is Lead Generation? This is used to convert the attracted users into leads to become sales-ready.
@@ -75,7 +75,7 @@ Examples for some Lead Generation are
  eBooks free PDF Webinars Tutorials Meetings  How to develop buyers Persona? Ask yourself the following question</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -107,15 +107,15 @@ Examples for some Lead Generation are
       
       <item>
         <title>Tutorials</title>
-        <link>https://perezre.de/en/posts/tuts/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/</link>
         <pubDate>Sun, 25 Oct 2020 18:43:13 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         
-        <guid>https://perezre.de/en/posts/tuts/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/</guid>
         <description></description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

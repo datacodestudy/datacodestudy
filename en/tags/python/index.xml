@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>python on Home</title>
-    <link>https://perezre.de/en/tags/python/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/python/</link>
     <description>Recent content in python on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 21 Jun 2020 16:14:24 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/en/tags/python/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,18 +24,18 @@
       
       <item>
         <title>Python</title>
-        <link>https://perezre.de/en/posts/tuts/python/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/python/</link>
         <pubDate>Sun, 21 Jun 2020 16:14:24 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 21 Jun 2020 16:14:24 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/python/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/python/</guid>
         <description>Python - Core Meet Python Python Intro Python is a popular high-level programming language.
 That means it&amp;rsquo;s designed to be easy to read, using English keywords and simple syntax.
 For example, here&amp;rsquo;s how one might check whether a number is greater than another number:
 1 2 3 4 5 6  my_age = 23 legal_age = 21 if my_age &amp;gt;= legal_age: print(&amp;#34;You can have a beer!&amp;#34;) else: print(&amp;#34;Unlucky.&amp;#34;)   Python is also a general-purpose programming language.</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

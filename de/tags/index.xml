@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Startseite</title>
-    <link>https://perezre.de/de/tags/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/de/tags/</link>
     <description>Recent content in Tags on Startseite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 01 Nov 2020 16:30:02 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/de/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>engineering</title>
-        <link>https://perezre.de/de/tags/engineering/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/de/tags/engineering/</link>
         <pubDate>Sun, 01 Nov 2020 16:30:02 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         
-        <guid>https://perezre.de/de/tags/engineering/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/de/tags/engineering/</guid>
         <description></description>
         
         <dc:creator>PEREZRE</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>management</title>
-        <link>https://perezre.de/de/tags/management/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/de/tags/management/</link>
         <pubDate>Sun, 01 Nov 2020 16:30:02 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         
-        <guid>https://perezre.de/de/tags/management/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/de/tags/management/</guid>
         <description></description>
         
         <dc:creator>PEREZRE</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>requirements</title>
-        <link>https://perezre.de/de/tags/requirements/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/de/tags/requirements/</link>
         <pubDate>Sun, 01 Nov 2020 16:30:02 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         
-        <guid>https://perezre.de/de/tags/requirements/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/de/tags/requirements/</guid>
         <description></description>
         
         <dc:creator>PEREZRE</dc:creator>
@@ -78,11 +78,11 @@
       
       <item>
         <title>index</title>
-        <link>https://perezre.de/de/tags/index/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/de/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         
-        <guid>https://perezre.de/de/tags/index/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/de/tags/index/</guid>
         <description></description>
         
         <dc:creator>PEREZRE</dc:creator>

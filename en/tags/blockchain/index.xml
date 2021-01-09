@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>blockchain on Home</title>
-    <link>https://perezre.de/en/tags/blockchain/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/blockchain/</link>
     <description>Recent content in blockchain on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 02 Feb 2020 18:31:04 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/en/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>Blockchain</title>
-        <link>https://perezre.de/en/posts/tuts/blockchain/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/blockchain/</link>
         <pubDate>Sun, 02 Feb 2020 18:31:04 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 02 Feb 2020 18:31:04 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/blockchain/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/blockchain/</guid>
         <description>Blockchain - Fundamentals Introduction The Blockchain The Bitcoin Blockchain Building the Ledger Mining Wallets Bitcoin Anonymity Altcoins Consesus Algorithms Forking Cryptoeconomics Ethereum I Solidity Ethereum II Ethereum on the Web </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

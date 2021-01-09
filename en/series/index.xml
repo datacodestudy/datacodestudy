@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Home</title>
-    <link>https://perezre.de/en/series/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/series/</link>
     <description>Recent content in Series on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>contact@perezre.de (PEREZRE)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://perezre.de/en/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     

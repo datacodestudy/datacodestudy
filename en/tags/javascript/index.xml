@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>javascript on Home</title>
-    <link>https://perezre.de/en/tags/javascript/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/javascript/</link>
     <description>Recent content in javascript on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 10 May 2020 16:36:18 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/en/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,17 +24,17 @@
       
       <item>
         <title>JavaScript</title>
-        <link>https://perezre.de/en/posts/tuts/javascript/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/javascript/</link>
         <pubDate>Sun, 10 May 2020 16:36:18 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 10 May 2020 16:36:18 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/javascript/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/javascript/</guid>
         <description>JavaScript - Core Introduction JavaScript Why Learn JavaScript? JavaScript was originally developed to add functionality to web pages but it&amp;rsquo;s now used for much more!
 Some reason to start with JavaScript:
  JavaScript runs on much any platform from web pages, to server backends and even hardware There are some great build and deployment tools and frameworks written in JavaScript that are useful in many applications It&amp;rsquo;s great introduction to functional programming concepts All one need to write JavaScript is a simple text editor High demand for JavaScript developers JavaScript is easy to learn.</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

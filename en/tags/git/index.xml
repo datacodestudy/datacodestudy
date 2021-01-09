@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>git on Home</title>
-    <link>https://perezre.de/en/tags/git/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/git/</link>
     <description>Recent content in git on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 05 Jan 2020 19:06:46 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/en/tags/git/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>What is Git</title>
-        <link>https://perezre.de/en/posts/tuts/git/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/git/</link>
         <pubDate>Sun, 05 Jan 2020 19:06:46 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sat, 11 Jan 2020 19:06:46 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/git/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/git/</guid>
         <description>Git - Essentials What is Git? Git is standard of version control.
 It&amp;rsquo;s the most commercial (and open-source) projects ust to keep track versions of their products.
  It was developed by Linux Torvalds
@@ -36,7 +36,7 @@ It&amp;rsquo;s the most commercial (and open-source) projects ust to keep track 
  Get all previous changes from the central server. Edit the files and make sure they work. Send all the changes to the central server.  Now with Git, every developer can have their own copy of the project.</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

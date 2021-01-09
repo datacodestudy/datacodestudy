@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>java on Home</title>
-    <link>https://perezre.de/en/tags/java/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/java/</link>
     <description>Recent content in java on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 26 Apr 2020 17:31:00 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/en/tags/java/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Java</title>
-        <link>https://perezre.de/en/posts/tuts/java/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/java/</link>
         <pubDate>Sun, 26 Apr 2020 17:31:00 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 26 Apr 2020 17:31:00 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/java/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/java/</guid>
         <description>Java - Fundamentals Introduction to Java Java is a programming language that follows the Object-oriented programming paradigm (OOP)
 It was first released in 1995 by Sun Microsystems, and has since grown to be one of the most used programming languages.
 The fact that it&amp;rsquo;s still one of the most-used languages over 25 years later shows how durable it is.
@@ -36,7 +36,7 @@ Java is a secure, and portable language.
 Why Learn Java? Reasons to learn Java:</description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

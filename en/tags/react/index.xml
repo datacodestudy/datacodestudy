@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>react on Home</title>
-    <link>https://perezre.de/en/tags/react/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/en/tags/react/</link>
     <description>Recent content in react on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 05 Jul 2020 18:23:40 +0100</lastBuildDate>
     
-        <atom:link href="https://perezre.de/en/tags/react/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/en/tags/react/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>React</title>
-        <link>https://perezre.de/en/posts/tuts/react/</link>
+        <link>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/react/</link>
         <pubDate>Sun, 05 Jul 2020 18:23:40 +0100</pubDate>
         <author>contact@perezre.de (PEREZRE)</author>
         <atom:modified>Sun, 05 Jul 2020 18:23:40 +0100</atom:modified>
-        <guid>https://perezre.de/en/posts/tuts/react/</guid>
+        <guid>https://datacodestudy.github.io/datacodestudy/en/posts/tuts/react/</guid>
         <description>React - Introduction Intro to React Fundamentals I Fundamentals II Basic of React How to React Introduction to Hooks React - Intermediary Props validation Advanced Props Props III Hooks I Redux React - Tips Common Mistages Good to know Gotchas Redux Tips </description>
         
         <dc:creator>PEREZRE</dc:creator>
-        <media:content url="https://perezre.de/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://datacodestudy.github.io/datacodestudy/https://res.cloudinary.com/dropify/image/upload/v1608729498/git_dpiqxz.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

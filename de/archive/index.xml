@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Archiv on Startseite</title>
-    <link>https://perezre.de/de/archive/</link>
+    <link>https://datacodestudy.github.io/datacodestudy/de/archive/</link>
     <description>Recent content in Archiv on Startseite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     
-        <atom:link href="https://perezre.de/de/archive/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://datacodestudy.github.io/datacodestudy/de/archive/index.xml" rel="self" type="application/rss+xml" />
     
     
     
